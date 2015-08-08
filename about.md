@@ -3,28 +3,26 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+![Here I am at the 2013 Rose Bowl.](/assets/stanford_rosebowl_photo_2013-e1361222975696-940x689.jpg)
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am a Data Scientist at [Twitter](http://twitter.com)
+working on their analytics team. Before that, 
+I was a Data Science Fellow at the [Insight Data Science Fellowship](http://insightdatascience.com).
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Before that, I got a PhD in physics from [Stanford Univeristy](http://stanford.edu) studying
+[pulsar wind Nebulae](http://en.wikipedia.org/wiki/Pulsar_wind_nebula).
+I have written about my PhD research experince [here]({% post_url 2013-02-14-stanford-university-research %}),
+and software I helped develope during my PhD [here]({% post_url 2013-02-01-pointlike %}).
 
-## Setup
 
-Some fun facts about the setup of this project include:
+Before that, I was an undergraduate at [Marlboro
+College](http://www.marlboro.edu/) in Vermont.  I wrote about my
+undergraduate research
+[here]({% post_url 2013-02-14-marlboro-college %}), as
+well as my research during two undergrdaute physics internships
+[here]({% post_url 2013-02-14-seap-internship %}), and
+[here]({% post_url 2013-02-12-2006-uc-davis-reu %}).
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+If you like my website, you can follow me on twitter [@joshualande](https://twitter.com/joshualande).
