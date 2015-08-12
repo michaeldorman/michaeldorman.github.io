@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV - Michael Dorman
+title: CV
 ---
 
 >  In this style, the resume starts with a blockquote, where
