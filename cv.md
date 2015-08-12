@@ -26,13 +26,17 @@ title: CV - Michael Dorman
 
 ## Publications
 
-* Dorman, M., Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. What determines tree mortality in dry environments? Observations on several scales. under review.
+* Volis, S., Zhang, Y., Dorman, M., Blecher, M. 2015. Iris atrofusca genetic and phenotypic variation, the role of habitat-specific selection in this variation structuring, and conservation implications using quasi in situ guidelines. Israel Journal of Plant Sciences, in press
 
-* Dorman, M., Perevolotsky, A., Svoray, T., Sarris, D. The effect of rainfall and competition intensity on forest response to drought: Lessons learned from a dry extreme. Oecologia, in press. 
+* Dorman, M., Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. 2015. What determines tree mortality in dry environments? A multi-perspective approach. Ecological Applications, 25(4):1054-1071
 
-* Dorman, M., Svoray, T., Perevolotsky, A. 2013. Homogenization in forest performance across an environmental gradient – The interplay between rainfall and topographic aspect. Forest Ecology and Management, 310, 256-266.
+* Dorman, M., Perevolotsky, A., Sarris, D., Svoray, T. 2015. Amount vs. temporal pattern: On the importance of intra-annual climatic conditions on tree growth in a dry environment. Journal of Arid Environments, 118:65-68
 
-* Dorman, M., Svoray, T., Perevolotsky, A., Sarris, D. 2013. Forest performance during two consecutive drought periods: Diverging long-term trends and short-term responses along a climatic gradient. Forest Ecology and Management, 310, 1-9.
+* Dorman, M., Perevolotsky, A., Sarris, D., Svoray, T.  2015. The effect of rainfall and competition intensity on forest response to drought: Lessons learned from a dry extreme. Oecologia, 177:1025-1038
+
+* Dorman, M., Svoray, T., Perevolotsky, A. 2013. Homogenization in forest performance across an environmental gradient – The interplay between rainfall and topographic aspect. Forest Ecology and Management, 310, 256-266
+
+* Dorman, M., Svoray, T., Perevolotsky, A., Sarris, D. 2013. Forest performance during two consecutive drought periods: Diverging long-term trends and short-term responses along a climatic gradient. Forest Ecology and Management, 310, 1-9
 
 * Volis, S., Dorman, M., Blecher, M., Sapir, Y., Burdeniy, L. 2011. Variation partitioning in canonical ordination reveals no effect of soil but an effect of co-occurring species on translocation success in Iris atrofusca. Journal of Applied Ecology, 48:265-273
 
@@ -44,12 +48,15 @@ title: CV - Michael Dorman
 דורמן, מ., סבוראי, ט. ופרבולוצקי, א. 2012. התייבשות עצים ביערות אורן ירושלים בישראל – מבט מגובה רב. אקולוגיה וסביבה 3(3): 230-237. 
 </p>
 
-Short Courses
-April – June 2012 "Python Programming for Biologists", 7-meetings course, Ben-Gurion University
-January 2011 "Likelihood Methods in Ecology", Dr. Charles D. Canham, 5-day concentrated course, Hebrew University
-January 2011 "Introduction to R", 1-day concentrated course, Hebrew University
+## Short Courses
+April – June 2012 
+:    "Python Programming for Biologists", 7-meetings course, Ben-Gurion University
+January 2011 
+:    "Likelihood Methods in Ecology", Dr. Charles D. Canham, 5-day concentrated course, Hebrew University
+January 2011 
+:    "Introduction to R", 1-day concentrated course, Hebrew University
 
-Grants/Awards
+## Grants/Awards
 2014 The Karshon Foundation Scholarship in Forest Research, Bet-Dagan
 2009 Merav Ziv Award for Excellence in Ecology, Sde-Boker
 2006, 2007 Dean’s list, Rehovot
