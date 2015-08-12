@@ -3,11 +3,18 @@ layout: page
 title: CV
 ---
 
-Michael Dorman - CV
-Birth date: 1.9.1984
-E-mail: michael.dorman@mail.huji.ac.il
-Address: Neve Alon st. 12/10 Rehovot 76455
-Phone: 054-3095886
+Michael Dorman
+==============
+
+----
+
+>  In this style, the resume starts with a blockquote, where
+>  you can briefly list your specialties, or include a salient
+>  quote. Ending a line with a backslash forces a line break.
+
+----
+
+
 
 Education
 2010- Ph.D Geography, thesis title: "Drought induced mortality of Pinus halepensis in planted forests", supervised by Prof. Tal Svoray and Prof. Avi Perevolotsky, Ben-Gurion Univeristy
@@ -91,3 +98,14 @@ ArcGIS, Erdas Imagine, STATISTICA, SPSS, JMP, CANOCO – Extensive experience
 
 Languages
 English, Hebrew, Russian
+
+sort of impressive-sounding thing you did
+
+----
+
+> <email@example.com> • +00 (0)00 000 0000 • XX years old\
+> address - Mytown, Mycountry
+> Birth date: 1.9.1984
+> E-mail: michael.dorman@mail.huji.ac.il
+> Address: Neve Alon st. 12/10 Rehovot 76455
+> Phone: 054-3095886
