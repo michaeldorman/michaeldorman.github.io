@@ -1,15 +1,11 @@
 ---
 layout: page
-title: CV
+title: CV - Michael Dorman
 ---
 
 >  In this style, the resume starts with a blockquote, where
 >  you can briefly list your specialties, or include a salient
 >  quote. Ending a line with a backslash forces a line break.
-
-----
-
-# Michael Dorman
 
 ## Education
 
@@ -110,6 +106,6 @@ sort of impressive-sounding thing you did
 > <email@example.com> • +00 (0)00 000 0000 • XX years old\
 > address - Mytown, Mycountry
 > Birth date: 1.9.1984
-> E-mail: michael.dorman@mail.huji.ac.il
+> E-mail: michael [dot] dorman [at] mail.huji.ac.il
 > Address: Neve Alon st. 12/10 Rehovot 76455
 > Phone: 054-3095886
