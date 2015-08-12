@@ -9,8 +9,9 @@ title: CV
 
 ----
 
-Education
----------
+# Michael Dorman
+
+## Education
 
 2010-2015
 :   **Ph.D Geography, Ben-Gurion Univeristy
@@ -23,8 +24,7 @@ Education
 2004-2007 
 :   B.Sc.Agr Plant Sciences in Agriculture, in “Nature Conservation and Land Management” program, Hebrew University
 
-Publications
-------------
+## Publications
 
 Dorman, M., Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. What determines tree mortality in dry environments? Observations on several scales. under review.
 Dorman, M., Perevolotsky, A., Svoray, T., Sarris, D. The effect of rainfall and competition intensity on forest response to drought: Lessons learned from a dry extreme. Oecologia, in press. 
