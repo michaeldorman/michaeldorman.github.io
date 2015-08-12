@@ -10,7 +10,7 @@ title: CV - Michael Dorman
 ## Education
 
 2010-2015
-:   **Ph.D Geography, Ben-Gurion Univeristy
+:   Ph.D Geography, Ben-Gurion Univeristy  
 
     Thesis title: *Drought induced mortality of Pinus halepensis in planted forests*, supervised by Prof. Tal Svoray and Prof. Avi Perevolotsky, 
 
