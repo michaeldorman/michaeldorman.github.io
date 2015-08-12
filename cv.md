@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Michael Dorman
+title: CV
 ---
 
 >  In this style, the resume starts with a blockquote, where
@@ -15,13 +15,17 @@ Education
 2010-2015
 :   **Ph.D Geography, Ben-Gurion Univeristy
 
-    *thesis title: Drought induced mortality of Pinus halepensis in planted forests*, supervised by Prof. Tal Svoray and Prof. Avi Perevolotsky, 
+    Thesis title: *Drought induced mortality of Pinus halepensis in planted forests*, supervised by Prof. Tal Svoray and Prof. Avi Perevolotsky, 
 
-2007-2010 M.Sc Life Sciences, thesis title: "Phenotypic variation and local adaptation in Oncocyclus irises of Israel", supervised by Dr. Sergei Volis and Dr. Yuval Sapir, Ben-Gurion University
+2007-2010
+:   M.Sc Life Sciences, thesis title: "Phenotypic variation and local adaptation in Oncocyclus irises of Israel", supervised by Dr. Sergei Volis and Dr. Yuval Sapir, Ben-Gurion University
 
-2004-2007 B.Sc.Agr Plant Sciences in Agriculture, in “Nature Conservation and Land Management” program, Hebrew University
+2004-2007 
+:   B.Sc.Agr Plant Sciences in Agriculture, in “Nature Conservation and Land Management” program, Hebrew University
 
 Publications
+------------
+
 Dorman, M., Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. What determines tree mortality in dry environments? Observations on several scales. under review.
 Dorman, M., Perevolotsky, A., Svoray, T., Sarris, D. The effect of rainfall and competition intensity on forest response to drought: Lessons learned from a dry extreme. Oecologia, in press. 
 Dorman, M., Svoray, T., Perevolotsky, A. 2013. Homogenization in forest performance across an environmental gradient – The interplay between rainfall and topographic aspect. Forest Ecology and Management, 310, 256-266.
