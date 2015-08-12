@@ -1,12 +1,7 @@
 ---
 layout: page
-title: CV
+title: Michael Dorman
 ---
-
-Michael Dorman
-==============
-
-----
 
 >  In this style, the resume starts with a blockquote, where
 >  you can briefly list your specialties, or include a salient
@@ -14,11 +9,16 @@ Michael Dorman
 
 ----
 
-
-
 Education
-2010- Ph.D Geography, thesis title: "Drought induced mortality of Pinus halepensis in planted forests", supervised by Prof. Tal Svoray and Prof. Avi Perevolotsky, Ben-Gurion Univeristy
+---------
+
+2010-2015
+:   **Ph.D Geography, Ben-Gurion Univeristy
+
+    *thesis title: Drought induced mortality of Pinus halepensis in planted forests*, supervised by Prof. Tal Svoray and Prof. Avi Perevolotsky, 
+
 2007-2010 M.Sc Life Sciences, thesis title: "Phenotypic variation and local adaptation in Oncocyclus irises of Israel", supervised by Dr. Sergei Volis and Dr. Yuval Sapir, Ben-Gurion University
+
 2004-2007 B.Sc.Agr Plant Sciences in Agriculture, in “Nature Conservation and Land Management” program, Hebrew University
 
 Publications
