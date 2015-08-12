@@ -50,11 +50,11 @@ title: CV
 
 ## Short Courses
 April – June 2012 
-:    "Python Programming for Biologists", 7-meetings course, Ben-Gurion University
-January 2011 
-:    "Likelihood Methods in Ecology", Dr. Charles D. Canham, 5-day concentrated course, Hebrew University
-January 2011 
-:    "Introduction to R", 1-day concentrated course, Hebrew University
+:    *Python Programming for Biologists*, 7-meetings course, Ben-Gurion University
+
+2011 
+:    *Likelihood Methods in Ecology*, Dr. Charles D. Canham, 5-day concentrated course, Hebrew University
+:    *Introduction to R*, 1-day concentrated course, Hebrew University
 
 ## Grants/Awards
 2014 The Karshon Foundation Scholarship in Forest Research, Bet-Dagan
