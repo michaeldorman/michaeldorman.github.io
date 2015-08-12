@@ -12,25 +12,37 @@ title: CV - Michael Dorman
 2010-2015
 :   Ph.D Geography, Ben-Gurion Univeristy  
 
-    Thesis title: *Drought induced mortality of Pinus halepensis in planted forests*, supervised by Prof. Tal Svoray and Prof. Avi Perevolotsky, 
+    Thesis title: *Drought induced mortality of Pinus halepensis in planted forests*, supervised by Prof. Tal Svoray and Prof. Avi Perevolotsky
 
 2007-2010
-:   M.Sc Life Sciences, thesis title: "Phenotypic variation and local adaptation in Oncocyclus irises of Israel", supervised by Dr. Sergei Volis and Dr. Yuval Sapir, Ben-Gurion University
+:   M.Sc Life Sciences,  Ben-Gurion University
+
+    Thesis title: *Phenotypic variation and local adaptation in Oncocyclus irises of Israel*, supervised by Dr. Sergei Volis and Dr. Yuval Sapir
 
 2004-2007 
-:   B.Sc.Agr Plant Sciences in Agriculture, in “Nature Conservation and Land Management” program, Hebrew University
+:   B.Sc.Agr Plant Sciences in Agriculture, Hebrew University
+
+    *Nature Conservation and Land Management* program
 
 ## Publications
 
-Dorman, M., Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. What determines tree mortality in dry environments? Observations on several scales. under review.
-Dorman, M., Perevolotsky, A., Svoray, T., Sarris, D. The effect of rainfall and competition intensity on forest response to drought: Lessons learned from a dry extreme. Oecologia, in press. 
-Dorman, M., Svoray, T., Perevolotsky, A. 2013. Homogenization in forest performance across an environmental gradient – The interplay between rainfall and topographic aspect. Forest Ecology and Management, 310, 256-266.
-Dorman, M., Svoray, T., Perevolotsky, A., Sarris, D. 2013. Forest performance during two consecutive drought periods: Diverging long-term trends and short-term responses along a climatic gradient. Forest Ecology and Management, 310, 1-9.
-Volis, S., Dorman, M., Blecher, M., Sapir, Y., Burdeniy, L. 2011. Variation partitioning in canonical ordination reveals no effect of soil but an effect of co-occurring species on translocation success in Iris atrofusca. Journal of Applied Ecology, 48:265-273
-Dorman, M., Melnikov, P., Sapir, Y., Volis, S. 2009. Factors affecting dormancy of Oncocyclus iris seeds. Israel Journal of Plant Sciences, 57(4):329-333
-Dorman, M., Sapir, Y., Volis, S. 2009. Local adaptation in four Iris species tested in a common-garden experiment. Biological Journal of the Linnean Society, 98:267-277
+* Dorman, M., Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. What determines tree mortality in dry environments? Observations on several scales. under review.
 
+* Dorman, M., Perevolotsky, A., Svoray, T., Sarris, D. The effect of rainfall and competition intensity on forest response to drought: Lessons learned from a dry extreme. Oecologia, in press. 
+
+* Dorman, M., Svoray, T., Perevolotsky, A. 2013. Homogenization in forest performance across an environmental gradient – The interplay between rainfall and topographic aspect. Forest Ecology and Management, 310, 256-266.
+
+* Dorman, M., Svoray, T., Perevolotsky, A., Sarris, D. 2013. Forest performance during two consecutive drought periods: Diverging long-term trends and short-term responses along a climatic gradient. Forest Ecology and Management, 310, 1-9.
+
+* Volis, S., Dorman, M., Blecher, M., Sapir, Y., Burdeniy, L. 2011. Variation partitioning in canonical ordination reveals no effect of soil but an effect of co-occurring species on translocation success in Iris atrofusca. Journal of Applied Ecology, 48:265-273
+
+* Dorman, M., Melnikov, P., Sapir, Y., Volis, S. 2009. Factors affecting dormancy of Oncocyclus iris seeds. Israel Journal of Plant Sciences, 57(4):329-333
+
+* Dorman, M., Sapir, Y., Volis, S. 2009. Local adaptation in four Iris species tested in a common-garden experiment. Biological Journal of the Linnean Society, 98:267-277
+
+<p dir="rtl">
 דורמן, מ., סבוראי, ט. ופרבולוצקי, א. 2012. התייבשות עצים ביערות אורן ירושלים בישראל – מבט מגובה רב. אקולוגיה וסביבה 3(3): 230-237. 
+</p>
 
 Short Courses
 April – June 2012 "Python Programming for Biologists", 7-meetings course, Ben-Gurion University
