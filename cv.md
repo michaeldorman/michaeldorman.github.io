@@ -1,12 +1,9 @@
 ---
 layout: page
 title: CV
----
+--- 
 
-> Birth date: 1.9.1984. 
 > E-mail: michael [dot] dorman [at] mail.huji.ac.il
-> Address: Neve Alon st. 12/10 Rehovot 76455
-> Phone: 054-3095886
 
 ## Education
 
@@ -59,14 +56,14 @@ title: CV
 
 ## Grants/Awards
 2014 
-: The Karshon Foundation Scholarship in Forest Research, Bet-Dagan
+:    The Karshon Foundation Scholarship in Forest Research, Bet-Dagan
 
 2009 
-: Merav Ziv Award for Excellence in Ecology, Sde-Boker
+:    Merav Ziv Award for Excellence in Ecology, Sde-Boker
 
 2006, 2007 
-: Dean’s list, Rehovot
-: JNF grant for "Nature Conservation" B.Sc program, Rehovot
+:    Dean’s list, Rehovot
+:    JNF grant for "Nature Conservation" B.Sc program, Rehovot
 
 ## Presentation in conferences
 
@@ -110,23 +107,32 @@ title: CV
 
 ## Work experience
 
-March 2013 – July 2013 – Lecturer, "Introduction to Programming for Spatial Data Analysis", Ben-Gurion University
+2013, 2015
+:    Lecturer, "Introduction to Programming for Spatial Data Analysis", Ben-Gurion University
 
-August 2011 – Organization of "Soil Degradation and Geo-Informatics" conference at Ben-Gurion University
+2011
+:    Organization of "Soil Degradation and Geo-Informatics" conference at Ben-Gurion University
 
-June 2010 – Research Assistant, Plant Ecology Lab, Hebrew University
+2010 
+:    Research Assistant, Plant Ecology Lab, Hebrew University
 
-2007-2009 (During M.Sc.) – Designing and carrying out greenhouse experiments, genetic markers (RFLP), statistical analysis of results (using SPSS, STATISTICA, CANOCO)
+2007-2009 (During M.Sc.)
+:    Designing and carrying out greenhouse experiments, genetic markers (RFLP), statistical analysis of results (using SPSS, STATISTICA, CANOCO)
 
-March 2009 - July 2009 – Teaching Assistant, "Plant Sciences Laboratory", Ben-Gurion University
+2009
+:    Teaching Assistant, "Plant Sciences Laboratory", Ben-Gurion University
 
-August 2006 – Practical work in JNF forestry department, Eshtaol
+August 2006
+:    Practical work in JNF forestry department, Eshtaol
 
 ## Computer skills
 
-R – Extensive experience, including: GIS and image processing operations, time series and spatial data statistical analysis, working with large datasets, advanced visualization techniques
-Python – Experience with writing scripts for ArcGIS
-ArcGIS, Erdas Imagine, STATISTICA, SPSS, JMP, CANOCO – Extensive experience
+R
+:    Extensive experience, including: GIS and image processing operations, time series and spatial data statistical analysis, working with large datasets, advanced visualization techniques
+Python
+:    Experience with writing scripts for ArcGIS
+ArcGIS, Erdas Imagine, STATISTICA, SPSS, JMP, CANOCO
+:    – Extensive experience
 
 ## Languages
 
