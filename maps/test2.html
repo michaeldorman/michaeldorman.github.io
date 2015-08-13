@@ -1,23 +1,20 @@
-<html>
-<head>
-  <title>A Leaflet map!</title>
-  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
-  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-  <style>
-    #map{ height: 100% }
-  </style>
-</head>
-<body>
+---
+layout: default
+title: Trying to integrate map in jekyll
+---
+<div id="map">
 
-<div id="map"/>
-    <script type="text/javascript" src="http://cdn.leafletjs.com/leaflet-0.4/leaflet.js"></script>
-    <script type="text/javascript">
-    var map = L.map('map').setView([28.23211669921875, -26.050065042385917], 10);
-//    L.tileLayer('http://b.tilecloudmade.com/e7b61e61295a44a5b319ca0bd3150890/997/256/18/149531/108306.png', {
-        L.tileLayer('http://{s}.tile.cloudmade.com/e7b61e61295a44a5b319ca0bd3150890/997/256/{z}/{x}/{y}.png', {
-        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery Â© <a href="http://cloudmade.com">CloudMade</a>',
-        maxZoom: 18
-        }).addTo(map);
-    </script>
-</body>
-</html>
+</div>
+
+<script>
+        var map = L.map('map').setView([34.00000, -118.260126], 14); 
+
+        mapLink =
+'<a href="http://openstreetmap.org">OpenStreetMap</a>'; L.tileLayer(
+'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: 'Map data &copy; ' + mapLink, maxZoom: 18, }).addTo(map);
+
+
+        var marker = L.marker([34.063298, -118.260126]) .addTo(map).bindPopup("<b>Blah Blah Blah</b><br /><a href='http://www.cnn.com'>Additional Information</a><br />").openPopup();
+
+
+</script>
