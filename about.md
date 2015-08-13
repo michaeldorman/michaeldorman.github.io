@@ -29,8 +29,6 @@ Have questions or suggestions? Feel free to [open an issue on GitHub](https://gi
 
 Thanks for reading!
 
-<!DOCTYPE html>
-<html>
 <head>
     <title>Simple Leaflet Map</title>
     <meta charset="utf-8" />
@@ -57,4 +55,3 @@ Thanks for reading!
             }).addTo(map);
     </script>
 </body>
-</html>
