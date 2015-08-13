@@ -9,21 +9,15 @@
 </head>
 <body>
 
-  <div id="map"></div>
-
-  <script>
-
-  // initialize the map
-  var map = L.map('map').setView([42.35, -71.08], 13);
-
-  // load a tile layer
-  L.tileLayer('http://tiles.mapc.org/basemap/{z}/{x}/{y}.png',
-    {
-      attribution: 'Tiles by <a href="http://mapc.org">MAPC</a>, Data by <a href="http://mass.gov/mgis">MassGIS</a>',
-      maxZoom: 17,
-      minZoom: 9
-    }).addTo(map);
-
-  </script>
+<div id="map"/>
+    <script type="text/javascript" src="http://cdn.leafletjs.com/leaflet-0.4/leaflet.js"></script>
+    <script type="text/javascript">
+    var map = L.map('map').setView([28.23211669921875, -26.050065042385917], 10);
+//    L.tileLayer('http://b.tilecloudmade.com/e7b61e61295a44a5b319ca0bd3150890/997/256/18/149531/108306.png', {
+        L.tileLayer('http://{s}.tile.cloudmade.com/e7b61e61295a44a5b319ca0bd3150890/997/256/{z}/{x}/{y}.png', {
+        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery Â© <a href="http://cloudmade.com">CloudMade</a>',
+        maxZoom: 18
+        }).addTo(map);
+    </script>
 </body>
 </html>
