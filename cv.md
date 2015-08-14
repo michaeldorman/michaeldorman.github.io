@@ -22,14 +22,17 @@ title: CV
     
 ## Computer skills
 
-Computer skills
-* I am fully proficient in –
-o R programming for data processing, statistical analysis and visualization
-o GIS and image analysis in ArcGIS, QGIS and Erdas Imagine
-o Statistical analysis in SPSS, STATISTICA, JMP, CANOCO
+Programming
+* *R* Data processing, statistical analysis and visualization
+* *Python* Writing ArcGIS scripts with Python 
+
+GIS and Image Analysis
+* ArcGIS, QGIS, Erdas Imagine
+
+Statistical analysis in SPSS, STATISTICA, JMP, CANOCO
 o Writing SQL queries
  I have basic skills in –
-o Python programming and writing ArcGIS scripts with Python 
+o 
 
 ## Work experience
 
@@ -48,8 +51,7 @@ Additional projects:
 :    Writing the book 'Learning R for Geospatial Analysis', published by Packt and
 available on <a href = "http://www.amazon.com/Learning-Geospatial-Analysis-Michael-Dorman/dp/1783984368">Amazon</a>
 
-March 2013 - August 2013
-March 2015 - August 2015
+March 2013 - August 2013, March 2015 - August 2015
 :    Lecturer, "Introduction to Programming for Spatial Data Analysis", Ben-Gurion University <a href = "http://www.geog.bgu.ac.il/fastSite/coursesFiles/tamag/12810043.pdf">[Syllabus]</a>
 
 August 2011
