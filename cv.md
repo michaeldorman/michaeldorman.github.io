@@ -22,7 +22,7 @@ title: CV
 
 ## Work experience
 
-2015-today
+March 2015-today
 :    Quantitative Ecologist and Information Systems, HaMaarag – Israel’s National Ecosystem Assessment Program.
 * Statistical analysis of multivariate ecological data
 * Design, implementation and management of monitoring observations database
@@ -35,21 +35,21 @@ Additional projects:
 
 2014
 :    Writing the book 'Learning R for Geospatial Analysis', published by Packt and
-available on Amazon <a href = "http://goo.gl/2Zvjs3">[Website]</a>
+available on <a href = "http://goo.gl/2Zvjs3">Amazon</a>
 
-2013, 2015
+March 2013 - August 2013, March 2015 - August 2015
 :    Lecturer, "Introduction to Programming for Spatial Data Analysis", Ben-Gurion University
 
-2011
+August 2011
 :    Organization of "Soil Degradation and Geo-Informatics" conference at Ben-Gurion University
 
-2010 
+June 2010 
 :    Research Assistant, Plant Ecology Lab, Hebrew University
 
 2007-2009 (During M.Sc.)
 :    Designing and carrying out greenhouse experiments, genetic markers (RFLP), statistical analysis of results (using SPSS, STATISTICA, CANOCO)
 
-2009
+March 2009 - August 2009
 :    Teaching Assistant, "Plant Sciences Laboratory", Ben-Gurion University
 
 August 2006
@@ -80,10 +80,10 @@ August 2006
 </p>
 
 ## Short Courses
-2012 
+April 2012 - June 2012 
 :    *Python Programming for Biologists*, 7-meetings course, Ben-Gurion University
 
-2011 
+January 2011 
 :    *Likelihood Methods in Ecology*, Dr. Charles D. Canham, 5-day concentrated course, Hebrew University
 :    *Introduction to R*, 1-day concentrated course, Hebrew University
 
