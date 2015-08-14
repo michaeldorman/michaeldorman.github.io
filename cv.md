@@ -19,6 +19,17 @@ title: CV
 :   B.Sc.Agr Plant Sciences in Agriculture, Hebrew University
 
     *Nature Conservation and Land Management* program
+    
+## Computer skills
+
+Computer skills
+* I am fully proficient in –
+o R programming for data processing, statistical analysis and visualization
+o GIS and image analysis in ArcGIS, QGIS and Erdas Imagine
+o Statistical analysis in SPSS, STATISTICA, JMP, CANOCO
+o Writing SQL queries
+ I have basic skills in –
+o Python programming and writing ArcGIS scripts with Python 
 
 ## Work experience
 
@@ -39,7 +50,7 @@ available on <a href = "http://goo.gl/2Zvjs3">Amazon</a>
 
 March 2013 - August 2013
 March 2015 - August 2015
-:    Lecturer, "Introduction to Programming for Spatial Data Analysis", Ben-Gurion University
+:    Lecturer, "Introduction to Programming for Spatial Data Analysis", Ben-Gurion University <a href = "http://www.geog.bgu.ac.il/fastSite/coursesFiles/tamag/12810043.pdf">[Syllabus]</a>
 
 August 2011
 :    Organization of "Soil Degradation and Geo-Informatics" conference at Ben-Gurion University
@@ -47,7 +58,7 @@ August 2011
 June 2010 
 :    Research Assistant, Plant Ecology Lab, Hebrew University
 
-2007-2009 (During M.Sc.)
+2007-2009 (During M.Sc)
 :    Designing and carrying out greenhouse experiments, genetic markers (RFLP), statistical analysis of results (using SPSS, STATISTICA, CANOCO)
 
 March 2009 - August 2009
@@ -56,7 +67,10 @@ March 2009 - August 2009
 August 2006
 :    Practical work in JNF forestry department, Eshtaol
 
-## Publications
+## Books
+Dorman, M. 2014. Learning R for Geospatial Analysis. Packt Publishing Ltd. <a href = "https://www.packtpub.com/big-data-and-business-intelligence/learning-r-geospatial-analysis">[Website]</a>
+
+## Peer-Reviewed Articles
 
 * Volis, S., Zhang, Y., Dorman, M., Blecher, M. 2015. Iris atrofusca genetic and phenotypic variation, the role of habitat-specific selection in this variation structuring, and conservation implications using quasi in situ guidelines. Israel Journal of Plant Sciences, in press
 
@@ -75,6 +89,8 @@ August 2006
 * Dorman, M., Melnikov, P., Sapir, Y., Volis, S. 2009. Factors affecting dormancy of Oncocyclus iris seeds. Israel Journal of Plant Sciences, 57(4):329-333
 
 * Dorman, M., Sapir, Y., Volis, S. 2009. Local adaptation in four Iris species tested in a common-garden experiment. Biological Journal of the Linnean Society, 98:267-277
+
+## Peer-Reviewed Articles in Hebrew
 
 <p dir="rtl">
 דורמן, מ., סבוראי, ט. ופרבולוצקי, א. 2012. התייבשות עצים ביערות אורן ירושלים בישראל – מבט מגובה רב. אקולוגיה וסביבה 3(3): 230-237. 
@@ -138,15 +154,6 @@ January 2011
 * Dorman, M., Sapir, Y., Volis, S., 2008. "Species boundaries and local adaptation in four Iris species from Israel". 1st International Congress – Documenting, Analyzing and Managing Biodiversity in the Middle East, Aqaba, Jordan (Poster)
 
 * Dorman, M., Sapir, Y., Volis, S., 2008. "What determines species distribution? An experiment with four Oncocyclus Iris species". 36th Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Haifa, Israel (Lecture)
-
-## Computer skills
-
-R
-:    Extensive experience, including: GIS and image processing operations, time series and spatial data statistical analysis, working with large datasets, advanced visualization techniques
-Python
-:    Experience with writing scripts for ArcGIS
-ArcGIS, Erdas Imagine, STATISTICA, SPSS, JMP, CANOCO
-:    – Extensive experience
 
 ## Languages
 
