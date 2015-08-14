@@ -37,7 +37,8 @@ Additional projects:
 :    Writing the book 'Learning R for Geospatial Analysis', published by Packt and
 available on <a href = "http://goo.gl/2Zvjs3">Amazon</a>
 
-March 2013 - August 2013, March 2015 - August 2015
+March 2013 - August 2013
+March 2015 - August 2015
 :    Lecturer, "Introduction to Programming for Spatial Data Analysis", Ben-Gurion University
 
 August 2011
