@@ -95,7 +95,8 @@ August 2006
 ## Peer-Reviewed Articles in Hebrew
 
 <p dir="rtl">
-* **דורמן, מ.**, סבוראי, ט. ופרבולוצקי, א. 2012. התייבשות עצים ביערות אורן ירושלים בישראל – מבט מגובה רב. אקולוגיה וסביבה 3(3): 230-237.  <a href = https://dl.dropboxusercontent.com/s/dwljb7pc0iem9yo/Dorman%20et%20al%202012%20HEB.pdf?dl=0f">[PDF]</a>
+* דורמן, מ., סבוראי, ט. ופרבולוצקי, א. 2012. התייבשות עצים ביערות אורן ירושלים בישראל – מבט מגובה רב. אקולוגיה וסביבה 3(3): 230-237. 
+<a href = https://dl.dropboxusercontent.com/s/dwljb7pc0iem9yo/Dorman%20et%20al%202012%20HEB.pdf?dl=0f">[PDF]</a>
 </p>
 
 ## Short Courses
