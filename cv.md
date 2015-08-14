@@ -70,7 +70,7 @@ August 2006
 :    Practical work in JNF forestry department, Eshtaol
 
 ## Books
-Dorman, M. 2014. Learning R for Geospatial Analysis. Packt Publishing Ltd. <a href = "https://www.packtpub.com/big-data-and-business-intelligence/learning-r-geospatial-analysis">[Website]</a>
+* Dorman, M. 2014. Learning R for Geospatial Analysis. Packt Publishing Ltd. <a href = "https://www.packtpub.com/big-data-and-business-intelligence/learning-r-geospatial-analysis">[Website]</a>
 
 ## Peer-Reviewed Articles
 
@@ -95,7 +95,7 @@ Dorman, M. 2014. Learning R for Geospatial Analysis. Packt Publishing Ltd. <a hr
 ## Peer-Reviewed Articles in Hebrew
 
 <p dir="rtl">
-דורמן, מ., סבוראי, ט. ופרבולוצקי, א. 2012. התייבשות עצים ביערות אורן ירושלים בישראל – מבט מגובה רב. אקולוגיה וסביבה 3(3): 230-237.  <a href = "Dorman et al 2012 HEB.pdf">[PDF]</a>
+* דורמן, מ., סבוראי, ט. ופרבולוצקי, א. 2012. התייבשות עצים ביערות אורן ירושלים בישראל – מבט מגובה רב. אקולוגיה וסביבה 3(3): 230-237.  <a href = "Dorman et al 2012 HEB.pdf">[PDF]</a>
 </p>
 
 ## Short Courses
