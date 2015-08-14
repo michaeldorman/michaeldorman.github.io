@@ -46,7 +46,7 @@ Additional projects:
 
 2014
 :    Writing the book 'Learning R for Geospatial Analysis', published by Packt and
-available on <a href = "http://goo.gl/2Zvjs3">Amazon</a>
+available on <a href = "http://www.amazon.com/Learning-Geospatial-Analysis-Michael-Dorman/dp/1783984368">Amazon</a>
 
 March 2013 - August 2013
 March 2015 - August 2015
@@ -72,23 +72,23 @@ Dorman, M. 2014. Learning R for Geospatial Analysis. Packt Publishing Ltd. <a hr
 
 ## Peer-Reviewed Articles
 
-* Volis, S., Zhang, Y., Dorman, M., Blecher, M. 2015. Iris atrofusca genetic and phenotypic variation, the role of habitat-specific selection in this variation structuring, and conservation implications using quasi in situ guidelines. Israel Journal of Plant Sciences, in press
+* Volis, S., Zhang, Y., Dorman, M., Blecher, M. 2015. Iris atrofusca genetic and phenotypic variation, the role of habitat-specific selection in this variation structuring, and conservation implications using quasi in situ guidelines. Israel Journal of Plant Sciences, in press <a href = "">[PDF]</a>
 
-* Dorman, M., Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. 2015. What determines tree mortality in dry environments? A multi-perspective approach. Ecological Applications, 25(4):1054-1071
+* Dorman, M., Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. 2015. What determines tree mortality in dry environments? A multi-perspective approach. Ecological Applications, 25(4):1054-1071 <a href = "">[PDF]</a>
 
-* Dorman, M., Perevolotsky, A., Sarris, D., Svoray, T. 2015. Amount vs. temporal pattern: On the importance of intra-annual climatic conditions on tree growth in a dry environment. Journal of Arid Environments, 118:65-68
+* Dorman, M., Perevolotsky, A., Sarris, D., Svoray, T. 2015. Amount vs. temporal pattern: On the importance of intra-annual climatic conditions on tree growth in a dry environment. Journal of Arid Environments, 118:65-68 <a href = "">[PDF]</a>
 
-* Dorman, M., Perevolotsky, A., Sarris, D., Svoray, T.  2015. The effect of rainfall and competition intensity on forest response to drought: Lessons learned from a dry extreme. Oecologia, 177:1025-1038
+* Dorman, M., Perevolotsky, A., Sarris, D., Svoray, T.  2015. The effect of rainfall and competition intensity on forest response to drought: Lessons learned from a dry extreme. Oecologia, 177:1025-1038 <a href = "">[PDF]</a>
 
-* Dorman, M., Svoray, T., Perevolotsky, A. 2013. Homogenization in forest performance across an environmental gradient – The interplay between rainfall and topographic aspect. Forest Ecology and Management, 310, 256-266
+* Dorman, M., Svoray, T., Perevolotsky, A. 2013. Homogenization in forest performance across an environmental gradient – The interplay between rainfall and topographic aspect. Forest Ecology and Management, 310, 256-266 <a href = "">[PDF]</a>
 
-* Dorman, M., Svoray, T., Perevolotsky, A., Sarris, D. 2013. Forest performance during two consecutive drought periods: Diverging long-term trends and short-term responses along a climatic gradient. Forest Ecology and Management, 310, 1-9
+* Dorman, M., Svoray, T., Perevolotsky, A., Sarris, D. 2013. Forest performance during two consecutive drought periods: Diverging long-term trends and short-term responses along a climatic gradient. Forest Ecology and Management, 310, 1-9 <a href = "Dorman et al 2013a.pdf">[PDF]</a>
 
-* Volis, S., Dorman, M., Blecher, M., Sapir, Y., Burdeniy, L. 2011. Variation partitioning in canonical ordination reveals no effect of soil but an effect of co-occurring species on translocation success in Iris atrofusca. Journal of Applied Ecology, 48:265-273
+* Volis, S., Dorman, M., Blecher, M., Sapir, Y., Burdeniy, L. 2011. Variation partitioning in canonical ordination reveals no effect of soil but an effect of co-occurring species on translocation success in Iris atrofusca. Journal of Applied Ecology, 48:265-273 <a href = "">[PDF]</a>
 
-* Dorman, M., Melnikov, P., Sapir, Y., Volis, S. 2009. Factors affecting dormancy of Oncocyclus iris seeds. Israel Journal of Plant Sciences, 57(4):329-333
+* Dorman, M., Melnikov, P., Sapir, Y., Volis, S. 2009. Factors affecting dormancy of Oncocyclus iris seeds. Israel Journal of Plant Sciences, 57(4):329-333 <a href = "">[PDF]</a>
 
-* Dorman, M., Sapir, Y., Volis, S. 2009. Local adaptation in four Iris species tested in a common-garden experiment. Biological Journal of the Linnean Society, 98:267-277
+* Dorman, M., Sapir, Y., Volis, S. 2009. Local adaptation in four Iris species tested in a common-garden experiment. Biological Journal of the Linnean Society, 98:267-277 <a href = "">[PDF]</a>
 
 ## Peer-Reviewed Articles in Hebrew
 
