@@ -23,16 +23,11 @@ title: CV
 ## Computer skills
 
 Programming
-* *R* Data processing, statistical analysis and visualization
-* *Python* Writing ArcGIS scripts with Python 
-
-GIS and Image Analysis
-* ArcGIS, QGIS, Erdas Imagine
-
-Statistical analysis in SPSS, STATISTICA, JMP, CANOCO
-o Writing SQL queries
- I have basic skills in –
-o 
+* **R** Data processing, statistical analysis and visualization
+* **Python* Writing ArcGIS scripts with Python 
+* **ArcGIS**, **QGIS**, **Erdas Imagine** GIS and Image Analysis
+* **SQLite** Database design and managenment
+* **Inkscape** Vector graphics editing
 
 ## Work experience
 
@@ -101,7 +96,6 @@ August 2006
 </li>
 </ul>
 
-
 ## Short Courses
 April 2012 - June 2012 
 :    *Python Programming for Biologists*, 7-meetings course, Ben-Gurion University
@@ -123,48 +117,46 @@ January 2011
 
 ## Presentation in conferences
 
-* Dorman, M., Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. 2014. What determines tree mortality in dry environments? A multi-perspective approach. 55th Conference of the Israeli Geographical Association, Haifa, Israel (Lecture)
+* **Dorman, M.**, Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. 2014. What determines tree mortality in dry environments? A multi-perspective approach. 55th Conference of the Israeli Geographical Association, Haifa, Israel (Lecture)
 
-* Dorman, M., Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. 2014. What determines tree mortality in dry environments? A multi-perspective approach. 42nd Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Ramat-Gan, Israel (Lecture)
+* **Dorman, M.**, Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. 2014. What determines tree mortality in dry environments? A multi-perspective approach. 42nd Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Ramat-Gan, Israel (Lecture)
 
-* Dorman, M., Svoray, T., Perevolotsky, A. 2014. Scale and replication in observational work: Pinus halepensis mortality in planted forests. Israel Science Foundation Workshop: Replication Uncertainty in the Biological Sciences. Tel-Hai, Israel (Lecture)
+* **Dorman, M.**, Svoray, T., Perevolotsky, A. 2014. Scale and replication in observational work: *Pinus halepensis* mortality in planted forests. Israel Science Foundation Workshop: Replication Uncertainty in the Biological Sciences. Tel-Hai, Israel (Lecture)
 
-* Dorman, M., Perevolotsky, A., Sarris, D., Svoray, T. 2014. The effect of rainfall and competition intensity on forest response to drought: Lessons from a dry environment. Trees at the edge: the biology of growth limitation in trees (Basel-Israel Symposium). Rehovot, Israel (Lecture)
+* **Dorman, M.**, Perevolotsky, A., Sarris, D., Svoray, T. 2014. The effect of rainfall and competition intensity on forest response to drought: Lessons from a dry environment. Trees at the edge: the biology of growth limitation in trees (Basel-Israel Symposium). Rehovot, Israel (Lecture)
 
-* Dorman, M., Svoray, T., Perevolotsky, A., Cooper, A. 2013. "Determinants of tree mortality spatial pattern in a planted forest from the semi-arid region". 41st Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Rehovot, Israel (Lecture)
+* **Dorman, M.**, Svoray, T., Perevolotsky, A., Cooper, A. 2013. Determinants of tree mortality spatial pattern in a planted forest from the semi-arid region. 41st Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Rehovot, Israel (Lecture)
 
-* Dorman, M., Perevolotsky, A., Svoray, T., 2013. "Forest performance during drought periods: diverging long-term trends and short-term responses to annual rainfall along a climatic gradient". INTECOL 2013, London, England (Poster)
+* **Dorman, M.**, Perevolotsky, A., Svoray, T., 2013. Forest performance during drought periods: diverging long-term trends and short-term responses to annual rainfall along a climatic gradient. INTECOL 2013, London, England (Poster)
 
-* Dorman, M., Perevolotsky, A., Svoray, T., 2013. "Pinus halepensis forests response to drought: assessment using remote sensing". Land Development Administration Annual Conference, Bet-Dagan, Israel (Lecture)
+* **Dorman, M.**, Perevolotsky, A., Svoray, T., 2013. *Pinus halepensis* forests response to drought: assessment using remote sensing. Land Development Administration Annual Conference, Bet-Dagan, Israel (Lecture)
 
-* Dorman, M., Perevolotsky, A., Svoray, T., 2012. "Forest response to a sequence of drought events: Evaluation using remote sensing". 4th International Conference on Drylands, Deserts and Desertification, Sde-Boker, Israel (Lecture)
+* **Dorman, M.**, Perevolotsky, A., Svoray, T., 2012. Forest response to a sequence of drought events: Evaluation using remote sensing. 4th International Conference on Drylands, Deserts and Desertification, Sde-Boker, Israel (Lecture)
 
-* Dorman, M., Perevolotsky, A., Svoray, T., 2012. "Forest response to a sequence of drought events: Evaluation using remote sensing". 40th Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Tel-Aviv, Israel (Lecture)
+* **Dorman, M.**, Perevolotsky, A., Svoray, T., 2012. Forest response to a sequence of drought events: Evaluation using remote sensing. 40th Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Tel-Aviv, Israel (Lecture)
 
-* Dorman, M., Perevolotsky, A., Svoray, T., 2012. "Spatial interpolation of daily climatic data using geo-statistical methods in R". 3rd Remote Sensing Student Conference, Sde-Boker, Israel (Lecture)
+* **Dorman, M.**, Perevolotsky, A., Svoray, T., 2012. Spatial interpolation of daily climatic data using geo-statistical methods in R. 3rd Remote Sensing Student Conference, Sde-Boker, Israel (Lecture)
 
-* Dorman, M., Perevolotsky, A., Svoray, T., 2012. "Environmental effects on NDWI in Yatir forest during 2003-2011". France-Israel Remote Sensing Workshop, Sde-Boker, Israel (Lecture)
+* **Dorman, M.**, Perevolotsky, A., Svoray, T., 2012. Environmental effects on NDWI in Yatir forest during 2003-2011. France-Israel Remote Sensing Workshop, Sde-Boker, Israel (Lecture)
 
-* Dorman, M., Perevolotsky, A., Svoray, T., 2012. "Evaluating drought stress changes in planted forests by means of remote sensing". Climate Change & Forest Fires in the Mediterranean Basin: Management & Risk Reduction, Nir-Etzyon, Israel (Lecture)
+* **Dorman, M.**, Perevolotsky, A., Svoray, T., 2012. Evaluating drought stress changes in planted forests by means of remote sensing. Climate Change & Forest Fires in the Mediterranean Basin: Management & Risk Reduction, Nir-Etzyon, Israel (Lecture)
 
-* Dorman, M., Perevolotsky, A., Svoray, T., 2011. "Environmental effects on NDWI in Yatir forest during 2003-2011". 52nd Conference of the Israeli Geographical Association, Tel-Aviv, Israel (Lecture)
+* **Dorman, M.**, Perevolotsky, A., Svoray, T., 2011. Environmental effects on NDWI in Yatir forest during 2003-2011. 52nd Conference of the Israeli Geographical Association, Tel-Aviv, Israel (Lecture)
 
-* Dorman, M., Perevolotsky, A., Svoray, T., 2011. "Remote sensing of drought stress in Pinus halepensis planted forests for predicting mortality: A research strategy". 8th Conference on Active Research by Environmental Sciences Students (CARESS), Rehovot, Israel (Poster)
+* **Dorman, M.**, Perevolotsky, A., Svoray, T., 2011. Remote sensing of drought stress in *Pinus halepensis* planted forests for predicting mortality: A research strategy. 8th Conference on Active Research by Environmental Sciences Students (CARESS), Rehovot, Israel (Poster)
 
-* Dorman, M., Perevolotsky, A., Svoray, T., 2011. "Remote sensing of drought stress in Pinus halepensis planted forests for predicting mortality: A research strategy". 4th International conference on Mediterranean Pines (MEDPINE), Avignon, France (Poster)
+* **Dorman, M.**, Perevolotsky, A., Svoray, T., 2011. Remote sensing of drought stress in *Pinus halepensis* planted forests for predicting mortality: A research strategy. 4th International conference on Mediterranean Pines (MEDPINE), Avignon, France (Poster)
 
-* Dorman, M., Blecher, M., Burdeniy, L., Sapir, Y., Volis, S., 2010. "Estimation of environmental effects on plants translocation success, using multivariate analysis". 38th Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Beer-Sheva, Israel (Poster)
+* **Dorman, M.**, Blecher, M., Burdeniy, L., Sapir, Y., Volis, S., 2010. Estimation of environmental effects on plants translocation success, using multivariate analysis. 38th Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Beer-Sheva, Israel (Poster)
 
-* Dorman, M., Sapir, Y., Volis, S., 2009. "Species boundaries and local adaptation in four Iris species from Israel". Evolution in Jerusalem: A Workshop in Celebration of Darwin's "The Origin of Species", Jerusalem, Israel (Poster)
+* **Dorman, M.**, Sapir, Y., Volis, S., 2009. Species boundaries and local adaptation in four *Iris* species from Israel. Evolution in Jerusalem: A Workshop in Celebration of Darwin's *The Origin of Species*, Jerusalem, Israel (Poster)
 
-* Dorman, M., Sapir, Y., Volis, S., 2008. "Species boundaries and local adaptation in four Iris species from Israel". 1st International Congress – Documenting, Analyzing and Managing Biodiversity in the Middle East, Aqaba, Jordan (Poster)
+* **Dorman, M.**, Sapir, Y., Volis, S., 2008. Species boundaries and local adaptation in four *Iris* species from Israel. 1st International Congress – Documenting, Analyzing and Managing Biodiversity in the Middle East, Aqaba, Jordan (Poster)
 
-* Dorman, M., Sapir, Y., Volis, S., 2008. "What determines species distribution? An experiment with four Oncocyclus Iris species". 36th Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Haifa, Israel (Lecture)
+* **Dorman, M.**, Sapir, Y., Volis, S., 2008. What determines species distribution? An experiment with four Oncocyclus *Iris* species. 36th Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Haifa, Israel (Lecture)
 
 ## Languages
 
 * English 
 * Hebrew 
 * Russian
-
-> E-mail: michael [dot] dorman [at] mail.huji.ac.il
