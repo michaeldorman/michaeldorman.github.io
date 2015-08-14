@@ -3,8 +3,6 @@ layout: page
 title: CV
 --- 
 
-> E-mail: michael [dot] dorman [at] mail.huji.ac.il
-
 ## Education
 
 2010-2015
@@ -21,6 +19,41 @@ title: CV
 :   B.Sc.Agr Plant Sciences in Agriculture, Hebrew University
 
     *Nature Conservation and Land Management* program
+
+## Work experience
+
+2015-today
+:    Quantitative Ecologist and Information Systems, HaMaarag – Israel’s National Ecosystem Assessment Program.
+* Statistical analysis of multivariate ecological data
+* Design, implementation and management of monitoring observations database
+
+2010-2015 (during Ph.D)
+:    Designing and carrying out research using remote sensing, Geographic Information Systems (GIS) and programming, field and lab work, statistical analysis, writing 6 papers for scientific journals (5 in English, 1 in Hebrew).
+Additional projects:
+* Mapping habitat types in Nahal Kziv area, for BGU (2012)
+* Assessing vegetation response to drought using satellite imagery, for Ramat Hanadiv park (2014)
+
+2014
+:    Writing the book 'Learning R for Geospatial Analysis', published by Packt and
+available on Amazon <a href = "http://goo.gl/2Zvjs3">[Website]</a>
+
+2013, 2015
+:    Lecturer, "Introduction to Programming for Spatial Data Analysis", Ben-Gurion University
+
+2011
+:    Organization of "Soil Degradation and Geo-Informatics" conference at Ben-Gurion University
+
+2010 
+:    Research Assistant, Plant Ecology Lab, Hebrew University
+
+2007-2009 (During M.Sc.)
+:    Designing and carrying out greenhouse experiments, genetic markers (RFLP), statistical analysis of results (using SPSS, STATISTICA, CANOCO)
+
+2009
+:    Teaching Assistant, "Plant Sciences Laboratory", Ben-Gurion University
+
+August 2006
+:    Practical work in JNF forestry department, Eshtaol
 
 ## Publications
 
@@ -105,26 +138,6 @@ title: CV
 
 * Dorman, M., Sapir, Y., Volis, S., 2008. "What determines species distribution? An experiment with four Oncocyclus Iris species". 36th Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Haifa, Israel (Lecture)
 
-## Work experience
-
-2013, 2015
-:    Lecturer, "Introduction to Programming for Spatial Data Analysis", Ben-Gurion University
-
-2011
-:    Organization of "Soil Degradation and Geo-Informatics" conference at Ben-Gurion University
-
-2010 
-:    Research Assistant, Plant Ecology Lab, Hebrew University
-
-2007-2009 (During M.Sc.)
-:    Designing and carrying out greenhouse experiments, genetic markers (RFLP), statistical analysis of results (using SPSS, STATISTICA, CANOCO)
-
-2009
-:    Teaching Assistant, "Plant Sciences Laboratory", Ben-Gurion University
-
-August 2006
-:    Practical work in JNF forestry department, Eshtaol
-
 ## Computer skills
 
 R
@@ -139,3 +152,5 @@ ArcGIS, Erdas Imagine, STATISTICA, SPSS, JMP, CANOCO
 * English 
 * Hebrew 
 * Russian
+
+> E-mail: michael [dot] dorman [at] mail.huji.ac.il
