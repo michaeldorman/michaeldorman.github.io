@@ -44,9 +44,9 @@ March 2015-today
 2010-2015 (during Ph.D)
 :    Designing and carrying out research using remote sensing, Geographic Information Systems (GIS) and programming, field and lab work, statistical analysis, writing 6 papers for scientific journals (5 in English, 1 in Hebrew). Additional projects:
 
-  * Mapping habitat types in Nahal Kziv area, for BGU (2012)
+&nbsp;&nbsp;&nbsp;&nbsp;  * Mapping habitat types in Nahal Kziv area, for BGU (2012)
 
-  * Assessing vegetation response to drought using satellite imagery, for Ramat Hanadiv park (2014)
+&nbsp;&nbsp;&nbsp;&nbsp; * Assessing vegetation response to drought using satellite imagery, for Ramat Hanadiv park (2014)
 
 2014
 :    Writing the book 'Learning R for Geospatial Analysis', published by Packt and
