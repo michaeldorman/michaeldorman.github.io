@@ -22,11 +22,14 @@ title: CV
     
 ## Computer skills
 
-Programming
 * **R** Data processing, statistical analysis and visualization
+
 * **Python* Writing ArcGIS scripts with Python 
+
 * **ArcGIS**, **QGIS**, **Erdas Imagine** GIS and Image Analysis
+
 * **SQLite** Database design and managenment
+
 * **Inkscape** Vector graphics editing
 
 ## Work experience
