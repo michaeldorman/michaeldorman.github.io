@@ -24,7 +24,7 @@ title: CV
 
 * **R** Data processing, statistical analysis and visualization
 
-* **Python** Writing ArcGIS scripts with Python 
+* **Python** Writing ArcGIS scripts
 
 * **ArcGIS**, **QGIS**, **Erdas Imagine** GIS and Image Analysis
 
