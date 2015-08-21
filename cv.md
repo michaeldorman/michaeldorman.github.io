@@ -37,16 +37,16 @@ title: CV
 March 2015-today
 :    Quantitative Ecologist and Information Systems, HaMaarag – Israel’s National Ecosystem Assessment Program.
 
-* Statistical analysis of multivariate ecological data
+  * Statistical analysis of multivariate ecological data
 
-* Design, implementation and management of monitoring observations database
+  * Design, implementation and management of monitoring observations database
 
 2010-2015 (during Ph.D)
 :    Designing and carrying out research using remote sensing, Geographic Information Systems (GIS) and programming, field and lab work, statistical analysis, writing 6 papers for scientific journals (5 in English, 1 in Hebrew). Additional projects:
 
-* Mapping habitat types in Nahal Kziv area, for BGU (2012)
+  * Mapping habitat types in Nahal Kziv area, for BGU (2012)
 
-* Assessing vegetation response to drought using satellite imagery, for Ramat Hanadiv park (2014)
+  * Assessing vegetation response to drought using satellite imagery, for Ramat Hanadiv park (2014)
 
 2014
 :    Writing the book 'Learning R for Geospatial Analysis', published by Packt and
