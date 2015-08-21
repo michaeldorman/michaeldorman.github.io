@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post
+title: Introduction
 ---
 
 This is the first post in my new [website](https://michaeldorman.github.io)!
