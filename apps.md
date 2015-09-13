@@ -9,6 +9,6 @@ Real time weather maps <a href="https://michaeldorman.shinyapps.io/IMS_10min"> [
 <img src="/images/ims.png" width="480">
 
 Monitoring events viewer <a href="https://hamaarag.shinyapps.io/viewer"> [Link]</a>
-:   Viewer for monitoring events conducter by Hamaarag.
+:   Viewer for biodiversity monitoring events conducter by Hamaarag.
 
 <img src="/images/viewer.png" width="480">
