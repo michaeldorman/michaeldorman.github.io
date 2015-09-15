@@ -75,6 +75,8 @@ August 2006
 
 ## Peer-Reviewed Articles
 
+* Waitz, Y., Cohen, Y., **Dorman, M.**, Perevolotsky, A. 2015. From microsite selection to population spatial distribution: Pinus halepensis colonization in mediterranean-type ecosystems. Plant Ecology, in press
+
 * Volis, S., Zhang, Y., **Dorman, M.**, Blecher, M. 2015. *Iris atrofusca* genetic and phenotypic variation, the role of habitat-specific selection in this variation structuring, and conservation implications using quasi in situ guidelines. Israel Journal of Plant Sciences, in press <a href="https://dl.dropboxusercontent.com/s/zodz4ggvh9a2pya/Volis%20et%20al%202015.pdf?dl=0">[PDF]</a>
 
 * **Dorman, M.**, Perevolotsky, A., Sarris, D., Svoray, T. 2015. Amount vs. temporal pattern: On the importance of intra-annual climatic conditions on tree growth in a dry environment. Journal of Arid Environments, 118:65-68 <a href = "https://dl.dropboxusercontent.com/s/p9hld96k1sq7wud/Dorman%20et%20al%202015c.pdf?dl=0">[PDF]</a>
