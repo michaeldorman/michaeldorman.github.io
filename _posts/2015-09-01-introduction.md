@@ -7,5 +7,5 @@ This is the first post in my new [website](https://michaeldorman.github.io)!
 
 At the moment, the website is composed of the following pages -
 
-* My [CV](https://michaeldorman.github.io/cv/)
-* Apps
+* [CV](https://michaeldorman.github.io/cv/) - A list of my publications, employment history etc. 
+* [Apps](https://michaeldorman.github.io/cv/) - A list of web applications I've constructed using [Shiny](http://shiny.rstudio.com/).
