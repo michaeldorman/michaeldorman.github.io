@@ -19,8 +19,8 @@ title: CV
 :   B.Sc.Agr Plant Sciences in Agriculture, Hebrew University
 
     *Nature Conservation and Land Management* program
-
 <br>
+
 ## Computer skills
 
 * **R** Data processing, statistical analysis and visualization
