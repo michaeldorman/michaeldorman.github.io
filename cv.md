@@ -36,6 +36,8 @@ title: CV
 
 * **Inkscape** Vector graphics editing
 
+<br>
+
 ## **Work experience**
 
 March 2015-today
@@ -72,9 +74,13 @@ March 2009 - August 2009
 August 2006
 :    Practical work in JNF forestry department, Eshtaol
 
+<br>
+
 ## **Books**
 
 * **Dorman, M.** 2014. Learning R for Geospatial Analysis. Packt Publishing Ltd. <a href = "https://www.packtpub.com/big-data-and-business-intelligence/learning-r-geospatial-analysis">[Website]</a>
+
+<br>
 
 ## **Peer-Reviewed Articles**
 
@@ -98,6 +104,8 @@ August 2006
 
 * **Dorman, M.**, Sapir, Y., Volis, S. 2009. Local adaptation in four Iris species tested in a common-garden experiment. Biological Journal of the Linnean Society, 98:267-277 <a href="https://dl.dropboxusercontent.com/s/t3lclvd55btz094/Dorman%20et%20al%202009a.pdf?dl=0">[PDF]</a>
 
+<br>
+
 ## **Peer-Reviewed Articles in Hebrew**
 
 <ul>
@@ -107,6 +115,8 @@ August 2006
 </li>
 </ul>
 
+<br>
+
 ## **Short Courses**
 
 April 2012 - June 2012 
@@ -115,6 +125,8 @@ April 2012 - June 2012
 January 2011 
 :    *Likelihood Methods in Ecology*, Dr. Charles D. Canham, 5-day concentrated course, Hebrew University
 :    *Introduction to R*, 1-day concentrated course, Hebrew University
+
+<br>
 
 ## **Grants/Awards**
 
@@ -127,6 +139,8 @@ January 2011
 2006, 2007 
 :    Dean’s list, Rehovot
 :    JNF grant for "Nature Conservation" B.Sc program, Rehovot
+
+<br>
 
 ## **Presentation in conferences**
 
@@ -167,6 +181,8 @@ January 2011
 * **Dorman, M.**, Sapir, Y., Volis, S., 2008. Species boundaries and local adaptation in four *Iris* species from Israel. 1st International Congress – Documenting, Analyzing and Managing Biodiversity in the Middle East, Aqaba, Jordan (Poster)
 
 * **Dorman, M.**, Sapir, Y., Volis, S., 2008. What determines species distribution? An experiment with four Oncocyclus *Iris* species. 36th Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Haifa, Israel (Lecture)
+
+<br>
 
 ## **Languages**
 
