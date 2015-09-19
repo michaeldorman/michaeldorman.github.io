@@ -19,7 +19,7 @@ title: CV
 :   B.Sc.Agr Plant Sciences in Agriculture, Hebrew University
 
     *Nature Conservation and Land Management* program
-<br>
+<br><br>
 
 ## Computer skills
 
