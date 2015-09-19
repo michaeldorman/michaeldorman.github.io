@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Michael Dorman
 tagline:             'Personal Website'
-description:         ''
+description:         'Michael Dorman'
 url:                 https://michaeldorman.github.io/
 baseurl:             ''
 paginate:            5
