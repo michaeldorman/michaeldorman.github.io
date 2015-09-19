@@ -19,7 +19,7 @@ title: CV
 :   B.Sc.Agr Plant Sciences in Agriculture, Hebrew University
 
     *Nature Conservation and Land Management* program
-<br><br><br>
+<br>
 
 ## Computer skills
 
@@ -32,6 +32,7 @@ title: CV
 * **SQLite** Database design and managenment
 
 * **Inkscape** Vector graphics editing
+<br>
 
 ## Work experience
 
@@ -68,9 +69,12 @@ March 2009 - August 2009
 
 August 2006
 :    Practical work in JNF forestry department, Eshtaol
+<br>
 
 ## Books
+
 * **Dorman, M.** 2014. Learning R for Geospatial Analysis. Packt Publishing Ltd. <a href = "https://www.packtpub.com/big-data-and-business-intelligence/learning-r-geospatial-analysis">[Website]</a>
+<br>
 
 ## Peer-Reviewed Articles
 
@@ -102,16 +106,20 @@ August 2006
 </p>
 </li>
 </ul>
+<br>
 
 ## Short Courses
+
 April 2012 - June 2012 
 :    *Python Programming for Biologists*, 7-meetings course, Ben-Gurion University
 
 January 2011 
 :    *Likelihood Methods in Ecology*, Dr. Charles D. Canham, 5-day concentrated course, Hebrew University
 :    *Introduction to R*, 1-day concentrated course, Hebrew University
+<br>
 
 ## Grants/Awards
+
 2014 
 :    The Karshon Foundation Scholarship in Forest Research, Bet-Dagan
 
@@ -121,6 +129,7 @@ January 2011
 2006, 2007 
 :    Dean’s list, Rehovot
 :    JNF grant for "Nature Conservation" B.Sc program, Rehovot
+<br>
 
 ## Presentation in conferences
 
@@ -161,6 +170,7 @@ January 2011
 * **Dorman, M.**, Sapir, Y., Volis, S., 2008. Species boundaries and local adaptation in four *Iris* species from Israel. 1st International Congress – Documenting, Analyzing and Managing Biodiversity in the Middle East, Aqaba, Jordan (Poster)
 
 * **Dorman, M.**, Sapir, Y., Volis, S., 2008. What determines species distribution? An experiment with four Oncocyclus *Iris* species. 36th Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Haifa, Israel (Lecture)
+<br>
 
 ## Languages
 
