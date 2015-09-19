@@ -3,8 +3,6 @@ layout: page
 title: CV
 --- 
 
-<br>
-
 ## **Education**
 
 2010-2015
@@ -22,9 +20,7 @@ title: CV
 
     *Nature Conservation and Land Management* program
 
-<br><br>
-
-## Computer skills
+## **Computer skills**
 
 * **R** Data processing, statistical analysis and visualization
 
