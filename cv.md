@@ -2,7 +2,7 @@
 layout: page
 title: CV
 --- 
-<br>
+
 
 ## **Education**
 
@@ -21,7 +21,7 @@ title: CV
 
     *Nature Conservation and Land Management* program
 
-<br>
+
 
 ## **Computer skills**
 
