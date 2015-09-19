@@ -3,6 +3,8 @@ layout: page
 title: CV
 --- 
 
+<br><br>
+
 ## Education
 
 2010-2015
@@ -19,6 +21,7 @@ title: CV
 :   B.Sc.Agr Plant Sciences in Agriculture, Hebrew University
 
     *Nature Conservation and Land Management* program
+
 <br><br>
 
 ## Computer skills
@@ -32,7 +35,8 @@ title: CV
 * **SQLite** Database design and managenment
 
 * **Inkscape** Vector graphics editing
-<br>
+
+<br><br>
 
 ## Work experience
 
@@ -69,7 +73,8 @@ March 2009 - August 2009
 
 August 2006
 :    Practical work in JNF forestry department, Eshtaol
-<br>
+
+<br><br>
 
 ## Books
 
@@ -98,6 +103,8 @@ August 2006
 
 * **Dorman, M.**, Sapir, Y., Volis, S. 2009. Local adaptation in four Iris species tested in a common-garden experiment. Biological Journal of the Linnean Society, 98:267-277 <a href="https://dl.dropboxusercontent.com/s/t3lclvd55btz094/Dorman%20et%20al%202009a.pdf?dl=0">[PDF]</a>
 
+<br><br>
+
 ## Peer-Reviewed Articles in Hebrew
 
 <ul>
@@ -106,7 +113,8 @@ August 2006
 </p>
 </li>
 </ul>
-<br>
+
+<br><br>
 
 ## Short Courses
 
@@ -116,7 +124,8 @@ April 2012 - June 2012
 January 2011 
 :    *Likelihood Methods in Ecology*, Dr. Charles D. Canham, 5-day concentrated course, Hebrew University
 :    *Introduction to R*, 1-day concentrated course, Hebrew University
-<br>
+
+<br><br>
 
 ## Grants/Awards
 
@@ -129,7 +138,8 @@ January 2011
 2006, 2007 
 :    Dean’s list, Rehovot
 :    JNF grant for "Nature Conservation" B.Sc program, Rehovot
-<br>
+
+<br><br>
 
 ## Presentation in conferences
 
@@ -170,7 +180,8 @@ January 2011
 * **Dorman, M.**, Sapir, Y., Volis, S., 2008. Species boundaries and local adaptation in four *Iris* species from Israel. 1st International Congress – Documenting, Analyzing and Managing Biodiversity in the Middle East, Aqaba, Jordan (Poster)
 
 * **Dorman, M.**, Sapir, Y., Volis, S., 2008. What determines species distribution? An experiment with four Oncocyclus *Iris* species. 36th Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Haifa, Israel (Lecture)
-<br>
+
+<br><br>
 
 ## Languages
 
