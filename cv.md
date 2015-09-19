@@ -5,7 +5,7 @@ title: CV
 
 <br><br>
 
-## Education
+## *Education*
 
 2010-2015
 :   Ph.D Geography, Ben-Gurion Univeristy  
