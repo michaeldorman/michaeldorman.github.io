@@ -32,9 +32,7 @@ title: CV
 
 * **Inkscape** Vector graphics editing
 
-<br><br>
-
-## Work experience
+## **Work experience**
 
 March 2015-today
 :    Quantitative Ecologist and Information Systems, HaMaarag – Israel’s National Ecosystem Assessment Program.
@@ -70,15 +68,11 @@ March 2009 - August 2009
 August 2006
 :    Practical work in JNF forestry department, Eshtaol
 
-<br><br>
-
-## Books
+## **Books**
 
 * **Dorman, M.** 2014. Learning R for Geospatial Analysis. Packt Publishing Ltd. <a href = "https://www.packtpub.com/big-data-and-business-intelligence/learning-r-geospatial-analysis">[Website]</a>
 
-<br><br>
-
-## Peer-Reviewed Articles
+## **Peer-Reviewed Articles**
 
 * Waitz, Y., Cohen, Y., **Dorman, M.**, Perevolotsky, A. 2015. From microsite selection to population spatial distribution: Pinus halepensis colonization in mediterranean-type ecosystems. Plant Ecology, in press
 
@@ -100,9 +94,7 @@ August 2006
 
 * **Dorman, M.**, Sapir, Y., Volis, S. 2009. Local adaptation in four Iris species tested in a common-garden experiment. Biological Journal of the Linnean Society, 98:267-277 <a href="https://dl.dropboxusercontent.com/s/t3lclvd55btz094/Dorman%20et%20al%202009a.pdf?dl=0">[PDF]</a>
 
-<br><br>
-
-## Peer-Reviewed Articles in Hebrew
+## **Peer-Reviewed Articles in Hebrew**
 
 <ul>
 <li><p dir="rtl"> דורמן, מ., סבוראי, ט. ופרבולוצקי, א. 2012. התייבשות עצים ביערות אורן ירושלים בישראל – מבט מגובה רב. אקולוגיה וסביבה 3(3): 230-237.
@@ -111,9 +103,7 @@ August 2006
 </li>
 </ul>
 
-<br><br>
-
-## Short Courses
+## **Short Courses**
 
 April 2012 - June 2012 
 :    *Python Programming for Biologists*, 7-meetings course, Ben-Gurion University
@@ -122,9 +112,7 @@ January 2011
 :    *Likelihood Methods in Ecology*, Dr. Charles D. Canham, 5-day concentrated course, Hebrew University
 :    *Introduction to R*, 1-day concentrated course, Hebrew University
 
-<br><br>
-
-## Grants/Awards
+## **Grants/Awards**
 
 2014 
 :    The Karshon Foundation Scholarship in Forest Research, Bet-Dagan
@@ -136,9 +124,7 @@ January 2011
 :    Dean’s list, Rehovot
 :    JNF grant for "Nature Conservation" B.Sc program, Rehovot
 
-<br><br>
-
-## Presentation in conferences
+## **Presentation in conferences**
 
 * **Dorman, M.**, Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. 2014. What determines tree mortality in dry environments? A multi-perspective approach. 55th Conference of the Israeli Geographical Association, Haifa, Israel (Lecture)
 
@@ -178,9 +164,7 @@ January 2011
 
 * **Dorman, M.**, Sapir, Y., Volis, S., 2008. What determines species distribution? An experiment with four Oncocyclus *Iris* species. 36th Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Haifa, Israel (Lecture)
 
-<br><br>
-
-## Languages
+## **Languages**
 
 * English 
 * Hebrew 
