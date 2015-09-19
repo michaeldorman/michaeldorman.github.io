@@ -2,6 +2,7 @@
 layout: page
 title: CV
 --- 
+<br>
 
 ## **Education**
 
@@ -19,6 +20,8 @@ title: CV
 :   B.Sc.Agr Plant Sciences in Agriculture, Hebrew University
 
     *Nature Conservation and Land Management* program
+
+<br>
 
 ## **Computer skills**
 
