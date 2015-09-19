@@ -79,7 +79,8 @@ August 2006
 ## Books
 
 * **Dorman, M.** 2014. Learning R for Geospatial Analysis. Packt Publishing Ltd. <a href = "https://www.packtpub.com/big-data-and-business-intelligence/learning-r-geospatial-analysis">[Website]</a>
-<br>
+
+<br><br>
 
 ## Peer-Reviewed Articles
 
