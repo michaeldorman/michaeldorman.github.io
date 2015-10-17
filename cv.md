@@ -84,7 +84,7 @@ August 2006
 
 ## **Peer-Reviewed Articles**
 
-* Waitz, Y., Cohen, Y., **Dorman, M.**, Perevolotsky, A. 2015. From microsite selection to population spatial distribution: Pinus halepensis colonization in mediterranean-type ecosystems. Plant Ecology, in press
+* Waitz, Y., Cohen, Y., **Dorman, M.**, Perevolotsky, A. 2015. From microsite selection to population spatial distribution: Pinus halepensis colonization in mediterranean-type ecosystems. Plant Ecology, 216:1311-1324 <a href="https://dl.dropboxusercontent.com/s/r5yjme8duzdskkz/Waitz%20et%20al%202015.pdf?dl=0">[PDF]</a>
 
 * Volis, S., Zhang, Y., **Dorman, M.**, Blecher, M. 2015. *Iris atrofusca* genetic and phenotypic variation, the role of habitat-specific selection in this variation structuring, and conservation implications using quasi in situ guidelines. Israel Journal of Plant Sciences, in press <a href="https://dl.dropboxusercontent.com/s/zodz4ggvh9a2pya/Volis%20et%20al%202015.pdf?dl=0">[PDF]</a>
 
@@ -143,6 +143,8 @@ January 2011
 <br>
 
 ## **Presentation in conferences**
+
+* **Dorman, M.**, Shapira, I. 2015. Intermediate results of the long term monitoring program: A case study of geoographical region and proximity to settlements effects on mammal occupancy. 43rd Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Jerusalem, Israel (Poster)
 
 * **Dorman, M.**, Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. 2014. What determines tree mortality in dry environments? A multi-perspective approach. 55th Conference of the Israeli Geographical Association, Haifa, Israel (Lecture)
 
