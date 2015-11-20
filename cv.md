@@ -10,12 +10,12 @@ title: CV
 2010-2015
 :   Ph.D Geography, Ben-Gurion Univeristy  
 
-    Thesis title: *Drought induced mortality of Pinus halepensis in planted forests*, supervised by Prof. Tal Svoray and Prof. Avi Perevolotsky <a href = "https://dl.dropboxusercontent.com/s/c96ttqhmlm18aa0/Dorman%20PhD%20Thesis%202015.pdf?dl=0">[Thesis]</a>
+    Thesis title: *Drought induced mortality of Pinus halepensis in planted forests*, supervised by Prof. Tal Svoray and Prof. Avi Perevolotsky <a href="https://dl.dropboxusercontent.com/s/c96ttqhmlm18aa0/Dorman%20PhD%20Thesis%202015.pdf?dl=0">[Thesis]</a>
 
 2007-2010
 :   M.Sc Life Sciences,  Ben-Gurion University
 
-    Thesis title: *Phenotypic variation and local adaptation in Oncocyclus irises of Israel*, supervised by Dr. Sergei Volis and Dr. Yuval Sapir
+    Thesis title: *Phenotypic variation and local adaptation in Oncocyclus irises of Israel*, supervised by Dr. Sergei Volis and Dr. Yuval Sapir <a href="https://dl.dropboxusercontent.com/s/pdjzf50yhc2zzh4/Dorman%20MSc%20Thesis%202010.pdf?dl=0">[Thesis]</a>
 
 2004-2007 
 :   B.Sc.Agr Plant Sciences in Agriculture, Hebrew University
@@ -54,10 +54,10 @@ March 2015-today
 
 2014
 :    Writing the book 'Learning R for Geospatial Analysis', published by Packt and
-available on <a href = "http://www.amazon.com/Learning-Geospatial-Analysis-Michael-Dorman/dp/1783984368">Amazon</a>
+available on <a href="http://www.amazon.com/Learning-Geospatial-Analysis-Michael-Dorman/dp/1783984368">Amazon</a>
 
 March 2013 - August 2013, March 2015 - August 2015
-:    Lecturer, "Introduction to Programming for Spatial Data Analysis", Ben-Gurion University <a href = "http://www.geog.bgu.ac.il/fastSite/coursesFiles/tamag/12810043.pdf">[Syllabus]</a>
+:    Lecturer, "Introduction to Programming for Spatial Data Analysis", Ben-Gurion University <a href="http://www.geog.bgu.ac.il/fastSite/coursesFiles/tamag/12810043.pdf">[Syllabus]</a>
 
 August 2011
 :    Organization of "Soil Degradation and Geo-Informatics" conference at Ben-Gurion University
@@ -78,7 +78,7 @@ August 2006
 
 ## **Books**
 
-* **Dorman, M.** 2014. Learning R for Geospatial Analysis. Packt Publishing Ltd. <a href = "https://www.packtpub.com/big-data-and-business-intelligence/learning-r-geospatial-analysis">[Website]</a>
+* **Dorman, M.** 2014. Learning R for Geospatial Analysis. Packt Publishing Ltd. <a href="https://www.packtpub.com/big-data-and-business-intelligence/learning-r-geospatial-analysis">[Website]</a>
 
 <br>
 
@@ -88,15 +88,15 @@ August 2006
 
 * Volis, S., Zhang, Y., **Dorman, M.**, Blecher, M. 2015. *Iris atrofusca* genetic and phenotypic variation, the role of habitat-specific selection in this variation structuring, and conservation implications using quasi in situ guidelines. Israel Journal of Plant Sciences, in press <a href="https://dl.dropboxusercontent.com/s/zodz4ggvh9a2pya/Volis%20et%20al%202015.pdf?dl=0">[PDF]</a>
 
-* **Dorman, M.**, Perevolotsky, A., Sarris, D., Svoray, T. 2015. Amount vs. temporal pattern: On the importance of intra-annual climatic conditions on tree growth in a dry environment. Journal of Arid Environments, 118:65-68 <a href = "https://dl.dropboxusercontent.com/s/p9hld96k1sq7wud/Dorman%20et%20al%202015c.pdf?dl=0">[PDF]</a>
+* **Dorman, M.**, Perevolotsky, A., Sarris, D., Svoray, T. 2015. Amount vs. temporal pattern: On the importance of intra-annual climatic conditions on tree growth in a dry environment. Journal of Arid Environments, 118:65-68 <a href="https://dl.dropboxusercontent.com/s/p9hld96k1sq7wud/Dorman%20et%20al%202015c.pdf?dl=0">[PDF]</a>
 
-* **Dorman, M.**, Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. 2015. What determines tree mortality in dry environments? A multi-perspective approach. Ecological Applications, 25(4):1054-1071 <a href = "https://dl.dropboxusercontent.com/s/p6ob61gi3e9bi9c/Dorman%20et%20al%202015b.pdf?dl=0">[PDF]</a>
+* **Dorman, M.**, Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. 2015. What determines tree mortality in dry environments? A multi-perspective approach. Ecological Applications, 25(4):1054-1071 <a href="https://dl.dropboxusercontent.com/s/p6ob61gi3e9bi9c/Dorman%20et%20al%202015b.pdf?dl=0">[PDF]</a>
 
-* **Dorman, M.**, Perevolotsky, A., Sarris, D., Svoray, T.  2015. The effect of rainfall and competition intensity on forest response to drought: Lessons learned from a dry extreme. Oecologia, 177:1025-1038 <a href = "https://dl.dropboxusercontent.com/s/btbm9x5b2ucqybf/Dorman%20et%20al%202015a.pdf?dl=0">[PDF]</a>
+* **Dorman, M.**, Perevolotsky, A., Sarris, D., Svoray, T.  2015. The effect of rainfall and competition intensity on forest response to drought: Lessons learned from a dry extreme. Oecologia, 177:1025-1038 <a href="https://dl.dropboxusercontent.com/s/btbm9x5b2ucqybf/Dorman%20et%20al%202015a.pdf?dl=0">[PDF]</a>
 
-* **Dorman, M.**, Svoray, T., Perevolotsky, A. 2013. Homogenization in forest performance across an environmental gradient – The interplay between rainfall and topographic aspect. Forest Ecology and Management, 310, 256-266 <a href = "https://dl.dropboxusercontent.com/s/g93osaeydk3mtb3/Dorman%20et%20al%202013b.pdf?dl=0">[PDF]</a>
+* **Dorman, M.**, Svoray, T., Perevolotsky, A. 2013. Homogenization in forest performance across an environmental gradient – The interplay between rainfall and topographic aspect. Forest Ecology and Management, 310, 256-266 <a href="https://dl.dropboxusercontent.com/s/g93osaeydk3mtb3/Dorman%20et%20al%202013b.pdf?dl=0">[PDF]</a>
 
-* **Dorman, M.**, Svoray, T., Perevolotsky, A., Sarris, D. 2013. Forest performance during two consecutive drought periods: Diverging long-term trends and short-term responses along a climatic gradient. Forest Ecology and Management, 310, 1-9 <a href = "https://dl.dropboxusercontent.com/s/stew763gy79a7ri/Dorman%20et%20al%202013a.pdf?dl=0">[PDF]</a>
+* **Dorman, M.**, Svoray, T., Perevolotsky, A., Sarris, D. 2013. Forest performance during two consecutive drought periods: Diverging long-term trends and short-term responses along a climatic gradient. Forest Ecology and Management, 310, 1-9 <a href="https://dl.dropboxusercontent.com/s/stew763gy79a7ri/Dorman%20et%20al%202013a.pdf?dl=0">[PDF]</a>
 
 * Volis, S., **Dorman, M.**, Blecher, M., Sapir, Y., Burdeniy, L. 2011. Variation partitioning in canonical ordination reveals no effect of soil but an effect of co-occurring species on translocation success in Iris atrofusca. Journal of Applied Ecology, 48:265-273 <a href="https://dl.dropboxusercontent.com/s/930kac4urzvokjs/Volis%20et%20al%202011.pdf?dl=0">[PDF]</a>
 
