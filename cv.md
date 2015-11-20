@@ -10,7 +10,7 @@ title: CV
 2010-2015
 :   Ph.D Geography, Ben-Gurion Univeristy  
 
-    Thesis title: *Drought induced mortality of Pinus halepensis in planted forests*, supervised by Prof. Tal Svoray and Prof. Avi Perevolotsky
+    Thesis title: *Drought induced mortality of Pinus halepensis in planted forests*, supervised by Prof. Tal Svoray and Prof. Avi Perevolotsky <a href = "https://dl.dropboxusercontent.com/s/hb3jpk2iue3e978/Dorman%20PhD%20Thesis%202015.pdf?dl=0">[Thesis]</a>
 
 2007-2010
 :   M.Sc Life Sciences,  Ben-Gurion University
