@@ -10,7 +10,7 @@ title: CV
 2010-2015
 :   Ph.D Geography, Ben-Gurion Univeristy  
 
-    Thesis title: *Drought induced mortality of Pinus halepensis in planted forests*, supervised by Prof. Tal Svoray and Prof. Avi Perevolotsky <a href = "https://dl.dropboxusercontent.com/s/hb3jpk2iue3e978/Dorman%20PhD%20Thesis%202015.pdf?dl=0">[Thesis]</a>
+    Thesis title: *Drought induced mortality of Pinus halepensis in planted forests*, supervised by Prof. Tal Svoray and Prof. Avi Perevolotsky <a href = "https://dl.dropboxusercontent.com/s/c96ttqhmlm18aa0/Dorman%20PhD%20Thesis%202015.pdf?dl=0">[Thesis]</a>
 
 2007-2010
 :   M.Sc Life Sciences,  Ben-Gurion University
@@ -84,7 +84,7 @@ August 2006
 
 ## **Peer-Reviewed Articles**
 
-* Waitz, Y., Cohen, Y., **Dorman, M.**, Perevolotsky, A. 2015. From microsite selection to population spatial distribution: Pinus halepensis colonization in mediterranean-type ecosystems. Plant Ecology, 216:1311-1324 <a href="https://dl.dropboxusercontent.com/s/r5yjme8duzdskkz/Waitz%20et%20al%202015.pdf?dl=0">[PDF]</a>
+* Waitz, Y., Cohen, Y., **Dorman, M.**, Perevolotsky, A. 2015. From microsite selection to population spatial distribution: Pinus halepensis colonization in mediterranean-type ecosystems. Plant Ecology, 216:1311-1324 <a href="https://dl.dropboxusercontent.com/s/uskf3s6qar9mpyt/Waitz%20et%20al%202015.pdf?dl=0">[PDF]</a>
 
 * Volis, S., Zhang, Y., **Dorman, M.**, Blecher, M. 2015. *Iris atrofusca* genetic and phenotypic variation, the role of habitat-specific selection in this variation structuring, and conservation implications using quasi in situ guidelines. Israel Journal of Plant Sciences, in press <a href="https://dl.dropboxusercontent.com/s/zodz4ggvh9a2pya/Volis%20et%20al%202015.pdf?dl=0">[PDF]</a>
 
@@ -110,7 +110,7 @@ August 2006
 
 <ul>
 <li><p dir="rtl"> דורמן, מ., סבוראי, ט. ופרבולוצקי, א. 2012. התייבשות עצים ביערות אורן ירושלים בישראל – מבט מגובה רב. אקולוגיה וסביבה 3(3): 230-237.
-<a href="https://dl.dropboxusercontent.com/s/dwljb7pc0iem9yo/Dorman%20et%20al%202012%20HEB.pdf?dl=0f">[PDF]</a>
+<a href="https://dl.dropboxusercontent.com/s/dwljb7pc0iem9yo/Dorman%20et%20al%202012%20HEB.pdf?dl=0">[PDF]</a>
 </p>
 </li>
 </ul>
