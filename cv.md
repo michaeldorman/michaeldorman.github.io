@@ -144,6 +144,8 @@ January 2011
 
 ## **Presentation in conferences**
 
+* **Dorman, M.**, Shapira, I. 2015. Intermediate results of the long term monitoring program: A case study of geoographical region and proximity to settlements effects on mammal occupancy. 52nd Annual Convention of the Zoological Society of Israel, Mikhmoret, Israel (Poster)
+
 * **Dorman, M.**, Shapira, I. 2015. Intermediate results of the long term monitoring program: A case study of geoographical region and proximity to settlements effects on mammal occupancy. 43rd Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Jerusalem, Israel (Poster)
 
 * **Dorman, M.**, Svoray, T., Perevolotsky, A., Moshe, Y., Sarris, D. 2014. What determines tree mortality in dry environments? A multi-perspective approach. 55th Conference of the Israeli Geographical Association, Haifa, Israel (Lecture)
