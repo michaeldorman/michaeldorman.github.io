@@ -40,7 +40,12 @@ title: CV
 
 ## **Work experience**
 
-March 2015-today
+January 2016-today
+:    Programmer, Ben-Gurion University of the Negev
+
+  * Assisting students and researchers of the Department of Geography in computational tasks such as data processing, spatial analysis, geo-statistics, developing web applications, etc. via programming in R and Python.
+
+March 2015-March 2016
 :    Quantitative Ecologist and Information Systems, HaMaarag – Israel’s National Ecosystem Assessment Program.
 
   * Statistical analysis of multivariate ecological data
