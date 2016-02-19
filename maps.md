@@ -3,8 +3,6 @@ layout: page
 title: Maps
 ---
 
-<a href="/maps/leaflet.html">Leaflet test</a>
+This is a *leaflet* map, showing a DEM with contour lines, prepared with R:
 
-<a href="/maps/test_google.html">Google maps test</a>
-
-<iframe src="/maps/leaflet.html"> </iframe>
+<iframe src="/maps/haifa_dem.html"> </iframe>
