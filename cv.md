@@ -194,6 +194,12 @@ January 2011
 
 <br>
 
+## **Co-authorship in presentations**
+
+* Dorman, M., **Shapira, I.** 2015. Land use type effect on plant, reptile and bird communities composition in the Loess Covered Areas in the Northern Negev. Nature and Parks Authority Annual Conference, Herzliya, Israel (Lecture)
+
+<br>
+
 ## **Languages**
 
 * English 
