@@ -26,19 +26,28 @@ title: CV
 
 ## **Computer skills**
 
-* **R** Data processing, statistical analysis and visualization
+* **R** Data processing, statistical analysis, visualization
 
-* **Python** Writing ArcGIS scripts
+* **Python** Web scraping, writing ArcGIS scripts
 
 * **ArcGIS**, **QGIS**, **Erdas Imagine** GIS and Image Analysis
 
-* **SQLite** Database design and managenment
+* **SQLite**, **MongoDB** Database design and managenment
+
+* Querying **XML** and **HTML** documents with **XPath**
+
+* Text processing with **Regular Expressions**
 
 * **Inkscape** Vector graphics editing
 
 <br>
 
 ## **Work experience**
+
+March 2016-today
+:    Research Associate, Ben-Gurion University of the Negev
+
+  * Conducting research at the Department of Geography and Environmental Development.
 
 January 2016-today
 :    Programmer, Ben-Gurion University of the Negev
