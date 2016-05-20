@@ -132,14 +132,17 @@ August 2006
 
 <br>
 
-## **Short Courses**
+## **Short Courses Taken**
+
+May 2016
+:    *Statistical Learning and Data Science*, Prof. Trevor Hastie, Workshop, Tel-Aviv University (4 hours) [Link](http://www.statistics.org.il/2016/05/1380)
 
 April 2012 - June 2012 
-:    *Python Programming for Biologists*, 7-meetings course, Ben-Gurion University
+:    *Python Programming for Biologists*, Guy Rapaport, 7-meetings course, Ben-Gurion University (21 hours) [Link](http://bioinfo.bgu.ac.il/courses/python2011/)
 
 January 2011 
-:    *Likelihood Methods in Ecology*, Dr. Charles D. Canham, 5-day concentrated course, Hebrew University
-:    *Introduction to R*, 1-day concentrated course, Hebrew University
+:    *Introduction to R*, 1-day concentrated course, Hebrew University (6 hours)
+:    *Likelihood Methods in Ecology*, Dr. Charles Canham, 5-day concentrated course, Hebrew University (27 hours)
 
 <br>
 
