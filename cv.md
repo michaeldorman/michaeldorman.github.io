@@ -208,7 +208,9 @@ January 2011
 
 ## **Co-authorship in presentations**
 
-* Dorman, M., **Shapira, I.** 2015. Land use type effect on plant, reptile and bird communities composition in the Loess Covered Areas in the Northern Negev. Nature and Parks Authority Annual Conference, Herzliya, Israel (Lecture)
+* **Dorman, M.**, Shapira, I. 2015. Land use type effect on plant, reptile and bird communities composition in the Loess Covered Areas in the Northern Negev. Nature and Parks Authority Annual Conference, Herzliya, Israel (Lecture)
+
+* Sorek, M., **Dorman, M.**, Shapira, I., Dan, H., Perlberg, A. 2016. The effect of settlements and agricultural areas on mammal occupancy and activity patterns. 44th Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Tel-Aviv, Israel (Poster)
 
 <br>
 
