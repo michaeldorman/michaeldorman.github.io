@@ -8,7 +8,7 @@ title: CV
 ## **Education**
 
 2010-2015
-:   Ph.D Geography, Ben-Gurion Univeristy  
+:   Ph.D Geography, Ben-Gurion Univeristy
 
     Thesis title: *Drought induced mortality of Pinus halepensis in planted forests*, supervised by Prof. Tal Svoray and Prof. Avi Perevolotsky <a href="https://dl.dropboxusercontent.com/s/6yiisyi9n7wdvev/Dorman%20PhD%20Thesis%202015.pdf?dl=0">[Thesis]</a>
 
@@ -52,7 +52,7 @@ March 2016-today
 January 2016-today
 :    Programmer, Ben-Gurion University of the Negev
 
-  * Assisting students and researchers of the Department of Geography in computational tasks such as data processing, spatial analysis, geo-statistics, developing web applications, etc. via programming in R and Python.
+  * Assisting students and researchers of the Department of Geography in computational tasks such as data processing, spatial analysis, geo-statistics, developing web applications, etc. mostly through programming in R and Python.
 
 March 2015-March 2016
 :    Quantitative Ecologist and Information Systems, HaMaarag – Israel’s National Ecosystem Assessment Program.
@@ -134,8 +134,11 @@ August 2006
 
 ## **Short Courses Taken**
 
+September 2016
+:    *BGU Teaching Skills Workshop*, Thomas Frick & Yuvalal Liron (hfp consulting), 2-day workshop, Neve Shalom Hotel (16 hours)
+
 May 2016
-:    *Statistical Learning and Data Science*, Prof. Trevor Hastie, Workshop, Tel-Aviv University (4 hours) [Link](http://www.statistics.org.il/2016/05/1380)
+:    *Statistical Learning and Data Science*, Prof. Trevor Hastie, 1-day workshop, Tel-Aviv University (4 hours) [Link](http://www.statistics.org.il/2016/05/1380)
 
 April 2012 - June 2012 
 :    *Python Programming for Biologists*, Guy Rapaport, 7-meetings course, Ben-Gurion University (21 hours) [Link](http://bioinfo.bgu.ac.il/courses/python2011/)
