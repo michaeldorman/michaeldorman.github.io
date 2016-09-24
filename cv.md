@@ -54,6 +54,9 @@ January 2016-today
 
   * Assisting students and researchers of the Department of Geography in computational tasks such as data processing, spatial analysis, geo-statistics, developing web applications, etc. mostly through programming in R and Python.
 
+March 2013-today (2013, 2015, 2016)
+:    Lecturer, "Introduction to Programming for Spatial Data Analysis", Ben-Gurion University <a href="http://www.geog.bgu.ac.il/fastSite/coursesFiles/tamag/12810043.pdf">[Syllabus]</a>
+
 March 2015-March 2016
 :    Quantitative Ecologist and Information Systems, HaMaarag – Israel’s National Ecosystem Assessment Program.
 
@@ -69,9 +72,6 @@ March 2015-March 2016
 2014
 :    Writing the book 'Learning R for Geospatial Analysis', published by Packt and
 available on <a href="http://www.amazon.com/Learning-Geospatial-Analysis-Michael-Dorman/dp/1783984368">Amazon</a>
-
-March 2013 - August 2013, March 2015 - August 2015
-:    Lecturer, "Introduction to Programming for Spatial Data Analysis", Ben-Gurion University <a href="http://www.geog.bgu.ac.il/fastSite/coursesFiles/tamag/12810043.pdf">[Syllabus]</a>
 
 August 2011
 :    Organization of "Soil Degradation and Geo-Informatics" conference at Ben-Gurion University
