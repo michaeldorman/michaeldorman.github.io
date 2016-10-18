@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction
+comments: true
 ---
 
 This is the first post in my new [website](https://michaeldorman.github.io)!
