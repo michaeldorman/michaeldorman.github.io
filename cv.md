@@ -98,6 +98,8 @@ August 2006
 
 ## **Peer-Reviewed Articles**
 
+* Cailleret, M., Jansen, S., Robert, E. M., Desoto, L., [and 62 others, including **Dorman, M.**] (2016). A synthesis of radial growth patterns preceding tree mortality. Global Change Biology.
+
 * Waitz, Y., Cohen, Y., **Dorman, M.**, Perevolotsky, A. 2015. From microsite selection to population spatial distribution: Pinus halepensis colonization in mediterranean-type ecosystems. Plant Ecology, 216:1311-1324 <a href="https://dl.dropboxusercontent.com/s/eaf46to0px05tfl/Waitz%20et%20al%202015.pdf?dl=0">[PDF]</a>
 
 * Volis, S., Zhang, Y., **Dorman, M.**, Blecher, M. 2015. *Iris atrofusca* genetic and phenotypic variation, the role of habitat-specific selection in this variation structuring, and conservation implications using quasi in situ guidelines. Israel Journal of Plant Sciences, in press <a href="https://dl.dropboxusercontent.com/s/icn8ubocg4s3sqy/Volis%20et%20al%202015.pdf?dl=0">[PDF]</a>
