@@ -3,7 +3,7 @@ layout: page
 title: Maps
 ---
 
-- A *leaflet* map, showing a DEM with contour lines, prepared with R:
+- A `leaflet` map, showing a DEM with contour lines, prepared with R:
 
 <iframe src="/maps/haifa_dem.html" height="500" width="600"> </iframe>
 
