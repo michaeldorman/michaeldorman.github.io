@@ -32,7 +32,7 @@ title: CV
 
 * **ArcGIS**, **QGIS**, **Erdas Imagine** GIS and Image Analysis
 
-* **SQLite**, **MongoDB** Database design and managenment
+* **SQLite**, **MongoDB**, **MySQL** Database design and managenment
 
 * Querying **XML** and **HTML** documents with **XPath**
 
@@ -133,6 +133,10 @@ August 2006
 </div>
 
 <br>
+
+## **R Packages**
+
+:    Michael Dorman (2016). shadow: R Package for Geometric Shade Calculations. R package version 0.1.3. https://CRAN.R-project.org/package=shadow
 
 ## **Short Courses Taken**
 
