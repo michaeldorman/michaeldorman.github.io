@@ -136,7 +136,7 @@ August 2006
 
 ## **R Packages**
 
-* Michael Dorman (2016). shadow: R Package for Geometric Shade Calculations. R package version 0.1.3. [https://CRAN.R-project.org/package=shadow](https://CRAN.R-project.org/package=shadow)
+* **Dorman, M.** 2016. shadow: R Package for Geometric Shade Calculations. R package version 0.1.3. [https://CRAN.R-project.org/package=shadow](https://CRAN.R-project.org/package=shadow)
 
 ## **Short Courses Taken**
 
