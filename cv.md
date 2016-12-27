@@ -26,7 +26,7 @@ title: CV
 
 ## **Computer skills**
 
-* **R** Data processing, statistical analysis, visualization
+* **R** Data processing, statistical analysis, spatial analysis, visualization
 
 * **Python** Web scraping, writing ArcGIS scripts
 
@@ -40,6 +40,8 @@ title: CV
 
 * **Inkscape** Vector graphics editing
 
+* **HTML** and **CSS** Basic web development
+
 <br>
 
 ## **Work experience**
@@ -52,7 +54,7 @@ March 2016-today
 January 2016-today
 :    Programmer, Ben-Gurion University of the Negev
 
-  * Assisting students and researchers of the Department of Geography in computational tasks such as data processing, spatial analysis, geo-statistics, developing web applications, etc. mostly through programming in R and Python.
+  * Assisting researchers and students of the Department of Geography in computational tasks such as data processing, spatial analysis, geo-statistics, developing web applications, etc., mostly through programming in R and Python.
 
 March 2013-today (2013, 2015, 2016)
 :    Lecturer, "Introduction to Programming for Spatial Data Analysis", Ben-Gurion University <a href="http://www.geog.bgu.ac.il/fastSite/coursesFiles/tamag/12810043.pdf">[Syllabus]</a>
@@ -221,6 +223,8 @@ January 2011
 
 * Sorek, M., **Dorman, M.**, Shapira, I., Dan, H., Perlberg, A. 2016. The effect of settlements and agricultural areas on mammal occupancy and activity patterns. 44th Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Tel-Aviv, Israel (Poster)
 
+* Svoray, T., **Dorman, M.**, Kloog, I. 2016. Spatial variation of emotions on different urban land use types from Flickr social network data. 57th Conference of the Israeli Geographical Association, Tel-Aviv, Israel (Lecture)
+
 <br>
 
 ## **Languages**
@@ -240,3 +244,5 @@ January 2011
 ## **Research Grant Referee**
 
 * ISF - Israel Science Foundation (1 review)
+
+
