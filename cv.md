@@ -58,8 +58,9 @@ January 2016-today
 
 March 2013-today
 :    Lecturer, Ben-Gurion University of the Negev
+
   * *Introduction to Programming for Spatial Data Analysis* 2-credits (2013), 3-credits (2015, 2016) <a href="http://www.geog.bgu.ac.il/fastSite/coursesFiles/tamag/12810043.pdf">[Syllabus]</a>
-  * *Web Applications for Spatial Data* 3-credits (2016)<a href="http://www.geog.bgu.ac.il/fastSite/coursesFiles/tamag/12810147.pdf">[Syllabus]</a>
+  * *Web Applications for Spatial Data* 3-credits (2016) <a href="http://www.geog.bgu.ac.il/fastSite/coursesFiles/tamag/12810147.pdf">[Syllabus]</a>
 
 March 2015-March 2016
 :    Quantitative Ecologist and Information Systems, HaMaarag – Israel’s National Ecosystem Assessment Program.
