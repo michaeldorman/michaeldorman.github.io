@@ -59,8 +59,8 @@ January 2016-today
 March 2013-today
 :    Lecturer, Ben-Gurion University of the Negev
 
-  * *Introduction to Programming for Spatial Data Analysis* 2-credits (2013), 3-credits (2015, 2016) <a href="http://www.geog.bgu.ac.il/fastSite/coursesFiles/tamag/12810043.pdf">[Syllabus]</a>
-  * *Web Applications for Spatial Data* 3-credits (2016) <a href="http://www.geog.bgu.ac.il/fastSite/coursesFiles/tamag/12810147.pdf">[Syllabus]</a>
+  * *"Introduction to Programming for Spatial Data Analysis"* 2-credits (2013), 3-credits (2015, 2016) <a href="http://www.geog.bgu.ac.il/fastSite/coursesFiles/tamag/12810043.pdf">[Syllabus]</a>
+  * *"Web Applications for Spatial Data"* 3-credits (2016) <a href="http://www.geog.bgu.ac.il/fastSite/coursesFiles/tamag/12810147.pdf">[Syllabus]</a>
 
 March 2015-March 2016
 :    Quantitative Ecologist and Information Systems, HaMaarag – Israel’s National Ecosystem Assessment Program.
@@ -103,7 +103,7 @@ August 2006
 
 ## **Peer-Reviewed Articles**
 
-* Barazani, O., Waitz, Y., Tugendhaft, Y., **Dorman, M.**,  Dag, A. Hamidat, M., Hijawi, T., Kerem, Z., Kadereit, J. W., Westberg, E. 2017. Testing the potential significance of different scion/rootstock genotype combinations on the ecology of old cultivated olive trees in the southeast Mediterranean area. BMC Ecology, in press
+* Barazani, O., Waitz, Y., Tugendhaft, Y., **Dorman, M.**,  Dag, A. Hamidat, M., Hijawi, T., Kerem, Z., Kadereit, J. W., Westberg, E. 2017. Testing the potential significance of different scion/rootstock genotype combinations on the ecology of old cultivated olive trees in the southeast Mediterranean area. BMC Ecology, 17:3 <a href="https://dl.dropboxusercontent.com/s/pepsryibir9cyu4/Barazani%20et%20al%202017.pdf?dl=0">[PDF]</a>
 
 * Cailleret, M., Jansen, S., Robert, E. M., Desoto, L., [and 62 others, including **Dorman, M.**]. 2016. A synthesis of radial growth patterns preceding tree mortality. Global Change Biology, in press <a href="https://dl.dropboxusercontent.com/s/o6ufbg1r5odbxlh/Cailleret%20et%20al.%202016.pdf?dl=0">[PDF]</a>
 
