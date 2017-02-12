@@ -129,7 +129,7 @@ August 2006
 
 <br>
 
-## **Peer-Reviewed Articles in Hebrew**
+## **Peer-Reviewed Articles (in Hebrew)**
 
 <div dir="rtl">
 <ul>
@@ -138,6 +138,12 @@ August 2006
 </li>
 </ul>
 </div>
+
+<br>
+
+## **Peer-Reviewed Reports (in Hebrew)**
+
+* Sorek, M., **Dorman, M.**, Perlberg, A., Drori, R., Dan, H., Shapira, I., Perevolotsky, A., Kaplan, D., Federman, R. 2016. State of Nature Report Israel 2016. <a href="https://dl.dropboxusercontent.com/s/ssimycvoisnpfzb/SNR_2016.pdf?dl=0">[PDF]</a>
 
 <br>
 
@@ -224,11 +230,11 @@ January 2011
 
 ## **Co-authorship in presentations**
 
-* **Dorman, M.**, Shapira, I. 2015. Land use type effect on plant, reptile and bird communities composition in the Loess Covered Areas in the Northern Negev. Nature and Parks Authority Annual Conference, Herzliya, Israel (Lecture)
+* Svoray, T., **Dorman, M.**, Kloog, I. 2016. Spatial variation of emotions on different urban land use types from Flickr social network data. 57th Conference of the Israeli Geographical Association, Tel-Aviv, Israel (Lecture)
 
 * Sorek, M., **Dorman, M.**, Shapira, I., Dan, H., Perlberg, A. 2016. The effect of settlements and agricultural areas on mammal occupancy and activity patterns. 44th Annual Convention of the Israeli Society of Ecology and Environmental Quality Sciences, Tel-Aviv, Israel (Poster)
 
-* Svoray, T., **Dorman, M.**, Kloog, I. 2016. Spatial variation of emotions on different urban land use types from Flickr social network data. 57th Conference of the Israeli Geographical Association, Tel-Aviv, Israel (Lecture)
+* **Dorman, M.**, Shapira, I. 2015. Land use type effect on plant, reptile and bird communities composition in the Loess Covered Areas in the Northern Negev. Nature and Parks Authority Annual Conference, Herzliya, Israel (Lecture)
 
 <br>
 
