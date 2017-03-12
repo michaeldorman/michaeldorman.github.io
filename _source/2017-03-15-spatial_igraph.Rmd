@@ -22,10 +22,18 @@ library(igraph)
 
 # Read states layer from a GeoJSON file
 url = "https://raw.githubusercontent.com/alignedleft/d3-book/master/chapter_12/us-states.json"
-state = readOGR(url, "OGRGeoJSON", stringsAsFactors = FALSE, verbose = FALSE)
+state = readOGR(
+  dsn = url, 
+  layer = "OGRGeoJSON", 
+  stringsAsFactors = FALSE, 
+  verbose = FALSE
+  )
 
 # Transform to US-Atlas projection
-state = spTransform(state, "+proj=laea +lat_0=45 +lon_0=-100 +x_0=0 +y_0=0 +a=6370997 +b=6370997 +units=m +no_defs")
+state = spTransform(
+  state, 
+  "+proj=laea +lat_0=45 +lon_0=-100 +x_0=0 +y_0=0 +a=6370997 +b=6370997 +units=m +no_defs"
+  )
 
 # Assign state names to 'row.names'
 row.names(state) = state$name
@@ -219,7 +227,15 @@ p_l = l[p_edges, ]
 
 plot(main, border = "grey")
 plot(p_l, add = TRUE, col = "red", lwd = 3)
-plot(l[E(g)[from("Texas") & to("New Mexico")], ], add = TRUE, col = "yellow", lwd = 3)
+
+# Highlight the edge we made 'more distant'
+plot( 
+  l[E(g)[from("Texas") & to("New Mexico")], ], 
+  add = TRUE, 
+  col = "yellow", 
+  lwd = 3
+  )
+
 plot(p_ctr, add = TRUE, col = "red", pch = 16, cex = 1)
 plot(l, add = TRUE)
 plot(ctr, add = TRUE, pch = 1)
