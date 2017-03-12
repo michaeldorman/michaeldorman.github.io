@@ -3,6 +3,10 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
+# RSS feed
+gems:
+  - jekyll-feed
+
 # Setup
 title:               Michael Dorman
 tagline:             'Personal Website'
