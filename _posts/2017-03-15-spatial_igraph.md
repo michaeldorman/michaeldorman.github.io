@@ -4,9 +4,9 @@ author: "Michael Dorman"
 date: "March 12, 2017"
 output: html_document
 tags:
- - R
- - Spatial
- - Network Analysis
+- R
+- Spatial
+- Network Analysis
 ---
 
 
