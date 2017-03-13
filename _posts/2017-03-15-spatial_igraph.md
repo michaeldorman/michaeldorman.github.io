@@ -1,8 +1,7 @@
 ---
-title: "Spatial networks - First attempt"
-author: "Michael Dorman"
-date: "March 12, 2017"
-output: html_document
+layout: post
+title: Spatial networks - First attempt
+comments: true
 tags:
 - R
 - Spatial
