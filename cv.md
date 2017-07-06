@@ -28,7 +28,7 @@ title: CV
 
 * **R** Data processing, statistical analysis, spatial analysis, visualization
 
-* **Python** Web scraping, writing ArcGIS scripts
+* **Python** Web scraping, writing ArcGIS scripts, Image analysis
 
 * **ArcGIS**, **QGIS**, **Erdas Imagine** GIS and Image Analysis
 
@@ -40,21 +40,21 @@ title: CV
 
 * **Inkscape** Vector graphics editing
 
-* **HTML** and **CSS** Basic web development
+* **HTML**, **CSS** and **JavaScript** Web development
 
 <br>
 
 ## **Work experience**
 
-March 2016-today
-:    Research Associate, Ben-Gurion University of the Negev
-
-  * Conducting research at the Department of Geography and Environmental Development.
-
 January 2016-today
 :    Programmer, Ben-Gurion University of the Negev
 
   * Assisting researchers and students of the Department of Geography in computational tasks such as data processing, spatial analysis, geo-statistics, developing web applications, etc., mostly through programming in R and Python.
+
+March 2016-May 2017
+:    Research Associate, Ben-Gurion University of the Negev
+
+  * Doing research on Location-Based Social Network Data.
 
 March 2013-today
 :    Lecturer, Ben-Gurion University of the Negev
@@ -183,6 +183,8 @@ January 2011
 <br>
 
 ## **Presentation in conferences**
+
+* **Dorman, M.**, Vulkan, A., Erell, E., Kloog, I. 2017. `shadow`: R Package for Geometric Shadow Calculations in an Urban Environment. UseR!2017, Brussels, Belgium (Lecture)
 
 * **Dorman, M.**, Shapira, I. 2015. Intermediate results of the long term monitoring program: A case study of geoographical region and proximity to settlements effects on mammal occupancy. 52nd Annual Convention of the Zoological Society of Israel, Mikhmoret, Israel (Poster)
 
