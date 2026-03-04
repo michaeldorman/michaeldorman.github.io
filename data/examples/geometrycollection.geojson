@@ -1,0 +1,16 @@
+{
+  "type": "GeometryCollection",
+  "geometries": [
+    {
+      "type": "Point",
+      "coordinates": [10, 30]
+    },
+    {
+      "type": "MultiLineString",
+      "coordinates": [
+          [[10, 10], [20, 20]], 
+          [[40, 40], [30, 30], [40, 20], [30, 10]]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [[30, 20], [45, 40], [10, 40], [30, 20]]
+        ]
+      },
+      "properties": {
+        "color": "green",
+        "area": 3565747
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [[15, 5], [40, 10], [10, 20], [5, 10], 
+            [15, 5]]
+        ]
+      },
+      "properties": {
+        "color": "red",
+        "area": 3272386
+      }
+    }
+  ]
+}

@@ -1,38 +1,130 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Michael Dorman</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="main.css" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="header">
+        <h1 style="margin-bottom: 0px">Michael Dorman</h1>
+        <i>Personal website</i><br>
+        <hr>
+    </div>
+    <div class="sidenav">
+        <a href="image_carmel.svg"><img id="logo" src="image_carmel.svg"></a>
+        <a href="#courses">Courses</a>
+        <a href="#books">Books</a>
+        <a href="#software">Software</a>
+        <a href="#presentations">Presentations</a>
+        <hr>
+        <div class="fa">
+            <a href="https://twitter.com/MichaelDorman84" class="fa fa-twitter"></a>
+            <a href="https://github.com/michaeldorman" class="fa fa-github"></a>
+            <a href="https://stackoverflow.com/users/1339626/michael-dorman" class="fa fa-stack-overflow"></a>
+            <a href="https://www.linkedin.com/in/michael-dorman-31983757" class="fa fa-linkedin"></a>
+            <a href="https://scholar.google.com/citations?user=HdS3h6EAAAAJ&hl=en" class="fa fa-google"></a>
+        </div>
+        <hr>
+    </div>
+    <div class="main">
+        <h2 id="courses">Courses</h2>
+        <ul>
+            <li><a href="https://bgu-geography.com/net/">Introduction to Spatial Networks using Python (2026)</a></li>
+            <li><a href="https://bgu-geography.com/py/">Spatial Data Programming with Python (2025)</a></li>
+            <li><a href="https://bgu-geography.com/r/">Spatial Data Programming with R (2025)</a></li>
+            <li><a href="https://bgu-geography.com/web-mapping/">Introduction to Web Mapping (2025-2026)</a></li>
+        </ul>
+        <h2 id="books">Books</h2>
+        <table>
+            <tr>
+                <td>
+                    ● Dorman, M., Graser, A., Nowosad, J., Lovelace, R. 2025. <i>Geocomputation with Python</i>. 
+                </td>
+                <td>
+                    <a href="https://github.com/geocompx/geocompy"><i class="fa fa-github" style="font-size:24px; color: black;"></i></a>
+                </td>
+                <td>
+                    <a href="https://py.geocompx.org/">🌐</a>
+                </td>
+                <td>
+                    <a href="https://www.routledge.com/Geocomputation-with-Python/Dorman-Graser-Nowosad-Lovelace/p/book/9781032460659"><img src="icons/crc.ico" style="height:1em;margin:auto;"></a>
+                </td>
+                <td>
+                    <a href="https://www.amazon.com/Geocomputation-Python-Chapman-Hall-CRC/dp/1032460652"><img src="icons/amazon.ico" style="height:1em;margin:auto;"></a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    ● Dorman, M. 2020. <i>Introduction to Web Mapping</i>. Chapman and Hall/CRC.
+                </td>
+                <td></td>
+                <td>
+                    <a href="web-mapping/">🌐</a>
+                </td>
+                <td>
+                    <a href="https://www.crcpress.com/Introduction-to-Web-Mapping/Dorman/p/book/9780367861186"><img src="icons/crc.ico" style="height:1em;margin:auto;"></a>
+                </td>
+                <td>
+                <a href="https://www.amazon.com/Introduction-Web-Mapping-Michael-Dorman/dp/0367371391/"><img src="icons/amazon.ico" style="height:1em;margin:auto;"></a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    ● Dorman, M. 2014. <i>Learning R for Geospatial Analysis</i>. Packt Pubtrshing. 
+                </td>
+                <td></td>
+                <td></td>
+                <td>
+                    <a href="https://www.packtpub.com/product/learning-r-for-geospatial-analysis/9781783984367"><img src="icons/packt.ico" style="height:1em;margin:auto;"></a>
+                </td>
+                <td>
+                <a href="https://www.amazon.com/Learning-Geospatial-Analysis-Michael-Dorman/dp/1783984368/"><img src="icons/amazon.ico" style="height:1em;margin:auto;"></a>
+                </td>
+            </tr>
+        </table>
+        <h2 id="software">Software</h2>
+        <table>
+            <tr>
+                <td style="text-align:center;"><img src="logos/python-logo-only.svg" style="height:1em;margin:auto;"></td>
+                <td><a href="https://github.com/michaeldorman/net2/"><code>net2</code>: Working with spatial networks</a></td>
+                <td><a href="https://pypi.org/project/net2/"><img src="https://img.shields.io/pypi/v/net2"></a></td>
+                <td><a href="https://pypi.org/project/net2/"><img src="https://img.shields.io/pypi/dm/net2"></a></td>
+            </tr>
+            <tr>
+                <td style="text-align:center;"><img src="logos/Rlogo.svg" style="height:1em;"></td>
+                <td><a href="https://github.com/michaeldorman/nngeo/"><code>nngeo</code>: k-Nearest Neighbor Join for Spatial Data</a></td>
+                <td><a href="https://cran.r-project.org/package=nngeo"><img src="https://www.r-pkg.org/badges/version-ago/nngeo"></a></td>
+                <td><a href="https://cran.r-project.org/package=nngeo"><img src="https://cranlogs.r-pkg.org/badges/last-month/nngeo"></a></td>
+            </tr>
+            <tr>
+                <td style="text-align:center;"><img src="logos/Rlogo.svg" style="height:1em;"></td>
+                <td><a href="https://github.com/michaeldorman/mapsapi"><code>mapsapi</code>: 'sf'-Compatible Interface to 'Google Maps' APIs</a></td>
+                <td><a href="https://cran.r-project.org/package=mapsapi"><img src="https://www.r-pkg.org/badges/version-ago/mapsapi"></a></td>
+                <td><a href="https://cran.r-project.org/package=mapsapi"><img src="https://cranlogs.r-pkg.org/badges/last-month/mapsapi"></a></td>
+            </tr>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+            <tr>
+                <td style="text-align:center;"><img src="logos/Rlogo.svg" style="height:1em;"></td>
+                <td><a href="https://github.com/michaeldorman/shadow"><code>shadow</code>: Geometric Shadow Calculations</a></td>
+                <td><a href="https://cran.r-project.org/package=shadow"><img src="https://www.r-pkg.org/badges/version-ago/shadow"></a></td>
+                <td><a href="https://cran.r-project.org/package=shadow"><img src="https://cranlogs.r-pkg.org/badges/last-month/shadow"></a></td>
+            </tr>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
-
+            <tr>
+                <td style="text-align:center;"><img src="logos/Rlogo.svg" style="height:1em;"></td>
+                <td><a href="https://github.com/michaeldorman/starsExtra"><code>starsExtra</code>: Miscellaneous Functions for 'stars' Rasters</a></td>
+                <td><a href="https://cran.r-project.org/package=starsExtra"><img src="https://www.r-pkg.org/badges/version-ago/starsExtra"></a></td>
+                <td><a href="https://cran.r-project.org/package=starsExtra"><img src="https://cranlogs.r-pkg.org/badges/last-month/starsExtra"></a></td>
+            </tr>
+            
+        </table>
+        <h2 id="presentations">Presentations</h2>
+        <ul>
+            <li>Introduction to Working with Spatial Data in Python, Poznan 2023 <a href="https://www.youtube.com/watch?v=G9_faMNs_3Y"><i class="fa fa-youtube-play" style="font-size:24px;color:red"></i></a> <a href="https://www.youtube.com/watch?v=gIPI6JMmxMk"><i class="fa fa-youtube-play" style="font-size:24px;color:red"></i></a> </li>
+            <li>Introduction to Working with Spatial Data in Python, Rehovot 2023 <a href="https://www.youtube.com/watch?v=y0XxsnLTR2g"><i class="fa fa-youtube-play" style="font-size:24px;color:red"></i></a></li>
+        </ul>
+    </div>
+</body>
+</html>
