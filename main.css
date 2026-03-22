@@ -86,3 +86,12 @@ hr {
 td {
     padding-right: 7px;
 }
+
+.anchor-link {
+  opacity: 0;
+  margin-left: 10px;
+  text-decoration: none;
+}
+.header-with-anchor:hover .anchor-link {
+  opacity: 1;
+}
