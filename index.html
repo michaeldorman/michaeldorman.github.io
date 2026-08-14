@@ -1,16 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=https://michaeldorman.qzz.io/">
-    <meta name="robots" content="noindex, follow">
-    <title>Redirecting...</title>
-    <link rel="canonical" href="https://michaeldorman.qzz.io/">
-    <script type="text/javascript">
-        window.location.href = "https://michaeldorman.qzz.io/";
-    </script>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <script>
+    (function () {
+      var path = window.location.pathname;
+
+      // Root path -> michaeldorman.qzz.io
+      if (path === "/" || path === "" || path === "/index.html") {
+        window.location.replace("https://michaeldorman.qzz.io");
+      } else {
+        // Any other path -> bgu-geography.com + same path
+        window.location.replace("https://bgu-geography.com" + path + window.location.search + window.location.hash);
+      }
+    })();
+  </script>
+  <noscript>
+    <meta http-equiv="refresh" content="0; url=https://michaeldorman.qzz.io">
+  </noscript>
 </head>
 <body>
-    <p>If you are not redirected automatically, <a href="https://michaeldorman.qzz.io/">click here</a>.</p>
+  <p>Redirecting, please wait...</p>
+  <p>If you are not redirected automatically, <a id="fallback-link" href="https://michaeldorman.qzz.io">click here</a>.</p>
+  <script>
+    document.getElementById("fallback-link").href =
+      (window.location.pathname === "/" || window.location.pathname === "")
+        ? "https://michaeldorman.qzz.io"
+        : "https://bgu-geography.com" + window.location.pathname;
+  </script>
 </body>
 </html>
